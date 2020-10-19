@@ -1,0 +1,70 @@
+\documentclass[a4paper]{article}
+
+\usepackage[]{siunitx}
+\usepackage[version=4]{mhchem}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[dutch]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+	\def\svgwidth{\columnwidth}
+	\import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+
+\begin{document}
+	\section*{BSc Literature Project}%
+	\label{sec:bsc_literature_project}
+	
+	\subsection*{Group Name}%
+	\label{sub:group_name}
+	
+	Phenolmenal
+	\begin{table}[htpb]
+		\centering
+		\label{tab:label}
+		\begin{tabular}{|l|l|}
+		\hline
+		Names of Students & Pcy***\\\hline
+		Ellis Lunnon & Pcyetl\\\hline
+		William Ogle & Mbywo\\\hline
+		Andrew Nicholson & pcyan\\\hline
+		Nathan Simons & pcyns3\\\hline
+		\end{tabular}
+		\caption{Group Members}
+	\end{table}
+	\subsection*{Working title of project}%
+	\label{sub:working_title_of_project}
+	
+	A comparison of methane decomposition and water splitting reaction methods as a means to produce molecular hydrogen.
+	
+	\subsection*{Introductory Statement}%
+	\label{sub:introductory_statement}
+	In this literature review we will consider the synthesis of Hydrogen gas using inorganic complexes as catalysts to reduce the currently prohibitive energy costs. We will discuss the viability of a variety of processes which yield Hydrogen gas on an industrial scale with a special focus on sustainability; the hope of energy efficient Hydrogen production being to provide a long-term solution to fossil fuels. We will evaluate the progress currently made by considering the 12 principles of green Chemistry. 
+	
+	
+
+	\subsection*{Reference List}%
+	\label{sub:reference_list}
+	
+	\begin{enumerate}
+		\item \textbf{R. Manisha, S. Arjun, R. Krishnan, Physical chemistry chemical physics, 2016, 18 (36), 25687-25692.} This paper discusses Hydrogen evolution from water using molybdenum oxide clusters in the gas phase, in particular modelling the potential energy surface of a proposed catalytic cycle using density-functional theory. The method allows for the production of \ce{H2} from feedstock by way of a catalytic cycle, in which a sacrificial reagent is used to reduce the \ce{Mo2O5-} back to \ce{Mo2O4-}. The paper goes on to evaluate the ideal sacrificial reagent for the reduction of \ce{H2O} to \ce{H2}. The proposed method is a two-step cycle: Step 1: \ce{Mo2O4 + H2O -> Mo2O5 + H2}, Step 2: \ce{Mo2O5 + X -> Mo2O4 + XO}. \ce{H2} is the clean fuel of the future and thus its sustainable production is essential.  
+		\item \textbf{P. Wang, G. Liang, C. Boyd, C. Webster, X. Zhao, European journal of inorganic chemistry, 2019, 15, 2134-2139.} This article discusses the catalytic evolution of molecular hydrogen by a mononuclear cobalt complex \ce{[Co(N4 - Py)(H20)][(PF6)3]} where \ce{N4 - Py = \text{N‐methylpyridine‐2,11‐diaza[3,3](2,6)pyridinophane}}. The proposed reactions are water splitting using either electrolytic or photolytic methods. Several reactions taking place at a variety of pH numbers with varying solvated species were attempted to evaluate the conditions which provide the highest yield. Their proposed method is clean and has the potential for industrial scale generation of ce{H2}; 200 \si{\mole} of product is generated per 1 mol of spent catalyst. At larger scale this would make producing ce{H2} for use in fuel cells a viable alternative to current technologies. 
+		\item \textbf{R. E. Rodríguez-Lugo, M. Trincado, M. Vogt, F. Tewes, G. Santiso-Quinones, H. Grützmacher, Nature chemistry, 2013, 5 (4), 342-347} A method is proposed in this paper of recreating the function of the enzyme group Alcohol Dehydrogenases (ADH), a biological molecule which serves to oxidise alcohol species to their corresponding aldehydes or ketones. This work demonstrates a process by which ruthenium complexes can be used to catalyse the dehydrogenation of methanol in a \ce{MeOH/H2O} mixture under neutral conditions to \ce{H2} and \ce{CO2}. During this, the entire hydrogen content is converted to molecular \ce{H2}. Avoiding the production of CO gas has presented a major challenge as it can act as a catalytic poison. The ruthenium complexes are characterised, and a mechanistic schema is suggested.
+	\end{enumerate}
+	
+	\subsection*{Conclusion}%
+	\label{sub:conclusion}
+	
+	From the selected works we can see that there are some very promising looking developments that use a variety of different catalysts and environmental conditions in order to produce Hydrogen gas in an energetically less demanding way than current and classical processes. This research becomes critical when discussing hydrogen as a wide-spread clean energy source; there is currently a prohibitive energy cost preventing production at scale. None of the processes discussed above are perfect; many rely on rare and expensive elements in order to yield significant results, and those which don’t are yet to be proven at scale. 
+\end{document}
