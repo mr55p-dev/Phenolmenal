@@ -1,7 +1,7 @@
 \providecommand*{\mcitethebibliography}{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
 {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{7}
+\begin{mcitethebibliography}{8}
 \providecommand*{\natexlab}[1]{#1}
 \providecommand*{\mciteSetBstSublistMode}[1]{}
 \providecommand*{\mciteSetBstMaxWidthForm}[2]{}
@@ -18,6 +18,13 @@
 \mciteSetBstSublistLabelBeginEnd{\mcitemaxwidthsubitemform\space}
 {\relax}{\relax}
 
+\bibitem[Lei \emph{et~al.}(2019)Lei, Wang, Wang, and Liu]{lei2019}
+Q.~Lei, B.~Wang, P.~Wang and S.~Liu, \emph{Journal of Energy Chemistry}, 2019,
+  \textbf{38}, 162--169\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Offer \emph{et~al.}(2010)Offer, Howey, Contestabile, Clague, and
   Brandon]{Offer2010}
 G.~J. Offer, D.~Howey, M.~Contestabile, R.~Clague and N.~P. Brandon,

@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Document.aux
+The style file: rsc.bst
+Database file #1: rsc-Document.bib
+Database file #2: ../Citations/bibtool.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+rsc 2016/08/22 v3.1f
+Warning--Can't use both author and editor fields in Probstein1982
+You've used 8 entries,
+            3113 wiz_defined-function locations,
+            735 strings with 7278 characters,
+and the built_in function-call counts, 2857 in all, are:
+= -- 237
+> -- 161
+< -- 6
++ -- 51
+- -- 43
+* -- 276
+:= -- 412
+add.period$ -- 7
+call.type$ -- 8
+change.case$ -- 3
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 133
+empty$ -- 203
+format.name$ -- 51
+if$ -- 575
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 63
+num.names$ -- 21
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 73
+stack$ -- 0
+substring$ -- 192
+swap$ -- 71
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 47
+warning$ -- 1
+while$ -- 32
+width$ -- 0
+write$ -- 120
+(There was 1 warning)

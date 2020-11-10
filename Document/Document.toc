@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}%
+\contentsline {section}{\numberline {2}Traditional Methods}{4}%
+\contentsline {subsection}{\numberline {2.1}Steam methane reformation}{4}%
+\contentsline {subsection}{\numberline {2.2}Uncatalysed electrolysis}{4}%
+\contentsline {subsection}{\numberline {2.3}Enzyme catalysed production}{4}%
+\contentsline {subsection}{\numberline {2.4}Discussion}{4}%
+\contentsline {section}{\numberline {3}\ce {CH4} methods}{5}%
+\contentsline {subsection}{\numberline {3.1}Radical chain reactions}{6}%
+\contentsline {subsection}{\numberline {3.2}Discussion}{6}%
+\contentsline {section}{\numberline {4}\ce {H2O} methods}{6}%
+\contentsline {subsection}{\numberline {4.1}Using \ce {[Co(N4 - Py)(H2O)](PF6)3} as a catalyst}{6}%
+\contentsline {subsection}{\numberline {4.2}Using \ce {GaN} in photolytic \ce {H2} production}{6}%
+\contentsline {subsection}{\numberline {4.3}Photocatalysts for \ce {H2O} splitting with graphene oxide-\ce {TiO2}}{7}%
+\contentsline {subsection}{\numberline {4.4}Dehydrogenation of methanol in \ce {MeOH/H2O} using \ce {Ru} with a chelating ligand as a catalyst}{7}%
+\contentsline {subsection}{\numberline {4.5}Thermo-photo catalytic water splitting reactions using methanol as the sacrificial reagent}{7}%
+\contentsline {subsection}{\numberline {4.6}Discussion}{7}%
+\contentsline {section}{\numberline {5}Evaluation}{7}%
+\contentsline {section}{\numberline {6}Conclusion}{7}%
+\contentsline {subsection}{\numberline {6.1}Evolution of the most promising methodology}{7}%
+\contentsline {subsection}{\numberline {6.2}Future innovations}{7}%
