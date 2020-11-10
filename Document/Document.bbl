@@ -1,7 +1,7 @@
 \providecommand*{\mcitethebibliography}{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
 {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{5}
+\begin{mcitethebibliography}{7}
 \providecommand*{\natexlab}[1]{#1}
 \providecommand*{\mciteSetBstSublistMode}[1]{}
 \providecommand*{\mciteSetBstMaxWidthForm}[2]{}
@@ -43,6 +43,21 @@ S.~Saxena, S.~Kumar and V.~Drozd, \emph{International Journal of Hydrogen
 \bibitem[Probstein(1982)]{Probstein1982}
 R.~F. Probstein, \emph{{Synthetic fuels}}, McGraw-Hill, New York, 1982, pp.
   394--400\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chen \emph{et~al.}(2008)Chen, Hsieh, and Jiang]{Chen2008}
+W.~H. Chen, T.~C. Hsieh and T.~L. Jiang, \emph{Energy Conversion and
+  Management}, 2008, \textbf{49}, 2801--2808\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[S{\'{a}}nchez‐Bastardo \emph{et~al.}(2020)S{\'{a}}nchez‐Bastardo,
+  Schl{\"{o}}gl, and Ruland]{SBN2020}
+N.~S{\'{a}}nchez‐Bastardo, R.~Schl{\"{o}}gl and H.~Ruland, \emph{Chemie
+  ingenieur technik}, 2020, \textbf{92}, 1596--1609\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
