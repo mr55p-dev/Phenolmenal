@@ -1,0 +1,28 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 running in TOOL mode
+[0] Config.pm:307> INFO - Logfile is 'bib.bib.blg'
+[117] biber-darwin:322> INFO - === Sun Nov 15, 2020, 23:05:19
+[500] Utils.pm:75> INFO - Globbing data source 'bib.bib'
+[500] Utils.pm:91> INFO - Globbed data source 'bib.bib' to bib.bib
+[573] Biber.pm:4451> INFO - Looking for bibtex format file 'bib.bib'
+[581] bibtex.pm:1653> INFO - LaTeX decoding ...
+[667] bibtex.pm:1471> INFO - Found BibTeX data source 'bib.bib'
+[777] Utils.pm:304> WARN - month field 'dec' in entry 'Hoffmann2018' is not an integer - this will probably not sort properly.
+[859] Biber.pm:1566> INFO - Datamodel validation starting
+[860] Utils.pm:304> WARN - Datamodel: Entry 'Lei2019' (bib.bib): Invalid field 'publisher' for entrytype 'article'
+[861] Utils.pm:304> WARN - Datamodel: Entry 'Hoffmann2018' (bib.bib): Missing mandatory field 'editor'
+[862] Utils.pm:304> WARN - Datamodel: Entry 'OK2013' (bib.bib): Invalid field 'publisher' for entrytype 'article'
+[862] Utils.pm:304> WARN - Datamodel: Entry 'RLR2013' (bib.bib): Invalid field 'location' for entrytype 'article'
+[862] Utils.pm:304> WARN - Datamodel: Entry 'RLR2013' (bib.bib): Invalid field 'publisher' for entrytype 'article'
+[863] Utils.pm:304> WARN - Datamodel: Entry 'SNIC' (bib.bib): Invalid field 'location' for entrytype 'article'
+[863] Utils.pm:304> WARN - Datamodel: Entry 'SNIC' (bib.bib): Invalid field 'publisher' for entrytype 'article'
+[863] Utils.pm:304> WARN - Datamodel: Entry 'Basile2015' (bib.bib): Invalid field 'isbn' for entrytype 'article'
+[864] Utils.pm:304> WARN - Datamodel: Entry 'SBN2020' (bib.bib): Invalid field 'publisher' for entrytype 'article'
+[864] Utils.pm:304> WARN - Datamodel: Entry 'MSR1' (bib.bib): Invalid field 'publisher' for entrytype 'article'
+[864] Biber.pm:1609> INFO - Datamodel validation complete
+[872] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[872] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[872] Biber.pm:4084> INFO - Sorting list 'tool/global//global/global' of type 'entry' with template 'tool' and locale 'en_US'
+[872] Biber.pm:4090> INFO - No sort tailoring available for locale 'en_US'
+[887] bibtex.pm:384> INFO - Writing 'bib_bibertool.bib' with encoding 'UTF-8'
+[889] bibtex.pm:414> INFO - Output to bib_bibertool.bib
+[889] Biber.pm:128> INFO - WARNINGS: 11

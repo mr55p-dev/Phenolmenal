@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Document"] 1605031028 "Document.aux" "Document.bbl" "Document" 1605031045
+["bibtex Document"] 1605482020 "Document.aux" "Document.bbl" "Document" 1605482023
   "../Citations/bibtool.bib" 1605030893 24747 3db66aaa71e47be82969bb4e6ac5f8a7 ""
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/rsc/rsc.bst" 1472079140 27885 246bac1b6acd6e781bb1ce4c1ed18a4e ""
-  "Document.aux" 1605031045 4992 cb028098c21297fa27b5d9f1f6f8fa3b "pdflatex"
-  "rsc-Document.bib" 1605031045 253 30232f5877c0ad10046f2d7fb6694f33 "pdflatex"
+  "Document.aux" 1605482023 5105 1f6f456eb4392e3b8dd61b2bef80bc45 "pdflatex"
+  "rsc-Document.bib" 1605482023 253 30232f5877c0ad10046f2d7fb6694f33 "pdflatex"
   (generated)
   "Document.bbl"
   "Document.blg"
-["pdflatex"] 1605031042 "Document.tex" "Document.pdf" "Document" 1605031045
+["pdflatex"] 1605482020 "Document.tex" "Document.pdf" "Document" 1605482023
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -139,16 +139,16 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1597054748 2432460 446cd11c61026cfbac94ba721337ef74 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "Document.aux" 1605031045 4992 cb028098c21297fa27b5d9f1f6f8fa3b "pdflatex"
-  "Document.bbl" 1605031028 3175 abc0ae89476a15b60c041e37b935ab78 "bibtex Document"
-  "Document.tex" 1605030942 8442 85110b086156a8cff1ee52494657994c ""
-  "Document.toc" 1605031045 1624 092ba555cf8ed20f1d8d503ad69d43d5 "pdflatex"
+  "Document.aux" 1605482023 5105 1f6f456eb4392e3b8dd61b2bef80bc45 "pdflatex"
+  "Document.bbl" 1605482020 3408 16b5bd7b6214cef1547754fe135613c2 "bibtex Document"
+  "Document.tex" 1605482012 8506 b03510da5c3202d57725e8951e818d80 ""
+  "Document.toc" 1605482023 1624 092ba555cf8ed20f1d8d503ad69d43d5 "pdflatex"
   "Introduction.tex" 1603734859 2304 f8c72cd4c74c8ab09c3135d423f93ab6 ""
-  "Methane Methods.tex" 1605031040 4068 250863234bfa39fa3ee8808b58061eaa ""
+  "Methane Methods.tex" 1605031145 4068 250863234bfa39fa3ee8808b58061eaa ""
   "Traditional Methods.tex" 1604863936 1405 509fe18eb5ac74447ce088150bee3e67 ""
   (generated)
   "rsc-Document.bib"
-  "Document.pdf"
   "Document.log"
+  "Document.pdf"
   "Document.toc"
   "Document.aux"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  10 NOV 2020 17:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  15 NOV 2020 23:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -424,7 +424,7 @@ Overfull \hbox (17.77252pt too wide) in paragraph at lines 4--6
 ) (./Methane Methods.tex [4
 
 ] [5]) [6]
-Overfull \hbox (2.76508pt too wide) in paragraph at lines 132--132
+Overfull \hbox (2.76508pt too wide) in paragraph at lines 134--134
 []\T1/cmr/m/it/12 Thermo-photo cat-alytic wa-ter split-ting re-ac-tions us-ing methanol
  []
 
@@ -432,15 +432,15 @@ Overfull \hbox (2.76508pt too wide) in paragraph at lines 132--132
 
 ] (./Document.aux) ) 
 Here is how much of TeX's memory you used:
- 10320 strings out of 480608
- 194685 string characters out of 5903630
- 469695 words of memory out of 5000000
- 26006 multiletter control sequences out of 15000+600000
+ 10324 strings out of 480608
+ 194776 string characters out of 5903630
+ 469721 words of memory out of 5000000
+ 26010 multiletter control sequences out of 15000+600000
  555086 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,19n,58p,812b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Document.pdf (8 pages, 250014 bytes).
+Output written on Document.pdf (8 pages, 250577 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
