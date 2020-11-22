@@ -1,7 +1,7 @@
 \providecommand*{\mcitethebibliography}{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
 {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{9}
+\begin{mcitethebibliography}{16}
 \providecommand*{\natexlab}[1]{#1}
 \providecommand*{\mciteSetBstSublistMode}[1]{}
 \providecommand*{\mciteSetBstMaxWidthForm}[2]{}
@@ -28,7 +28,7 @@ G.~J. Offer, D.~Howey, M.~Contestabile, R.~Clague and N.~P. Brandon,
 \EndOfBibitem
 \bibitem[Hoffmann and Dorgan(2012)]{6278114}
 P.~Hoffmann and B.~Dorgan, in \emph{{Why Hydrogen? The Grand Picture}}, MIT
-  Press, 2012, pp. 1--17\relax
+  Press, 2012, pp. 1--17, 192--200\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -68,9 +68,61 @@ M.~D. Merrill, \emph{Thesis}, 2006,  1--86\relax
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Peng and Wei(2020)]{Peng2020}
+L.~Peng and Z.~Wei, \emph{Engineering}, 2020, \textbf{6}, 653--679\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[IEA(2020)]{IEA2020}
+IEA, \emph{{Renewables 2020}}, Iea technical report, 2020\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ashok \emph{et~al.}()Ashok, Ashok, Kumar, Kumar, Subrahmanyam,
+  Subrahmanyam, Venugopal, and Venugopal]{Ashok}
+J.~Ashok, J.~Ashok, S.~N. Kumar, S.~N. Kumar, M.~Subrahmanyam, M.~Subrahmanyam,
+  A.~Venugopal and A.~Venugopal, \emph{Catalysis letters}, \textbf{121},
+  283--290\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zeng and Zhang(2010)]{Zeng2010}
+K.~Zeng and D.~Zhang, \emph{Progress in Energy and Combustion Science}, 2010,
+  \textbf{36}, 307--326\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Lei \emph{et~al.}(2019)Lei, Wang, Wang, and Liu]{Lei2019}
 Q.~Lei, B.~Wang, P.~Wang and S.~Liu, \emph{Journal of Energy Chemistry}, 2019,
   \textbf{38}, 162--169\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Schiller \emph{et~al.}(2019)Schiller, Lang, Szabo, Monnerie, von
+  Storch, Reinhold, and Sundarraj]{Schiller2019}
+G.~Schiller, M.~Lang, P.~Szabo, N.~Monnerie, H.~von Storch, J.~Reinhold and
+  P.~Sundarraj, \emph{Journal of Power Sources}, 2019, \textbf{416},
+  72--78\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Laurencin and Mougin()]{Laurencin}
+J.~Laurencin and J.~Mougin, in \emph{Hydrogen Production}, Wiley‐VCH Verlag
+  GmbH {\&} Co. KGaA, Weinheim, Germany, pp. 191--272\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lemmon \emph{et~al.}(2017)Lemmon, McLinden, Friend, and
+  D.G.]{Lemmon2017}
+E.~Lemmon, M.~McLinden, Friend and D.G., \emph{{NIST Chemistry WebBook, NIST
+  Standard Reference Database}}, 2017\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

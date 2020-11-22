@@ -1,59 +1,77 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Document.aux
+Case mismatch error between cite keys sbn2020 and SBN2020
+---line 56 of file Document.aux
+ : \citation{sbn2020
+ :                  }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys sbn2020 and SBN2020
+---line 57 of file Document.aux
+ : \citation{sbn2020
+ :                  }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys sbn2020 and SBN2020
+---line 64 of file Document.aux
+ : \citation{sbn2020
+ :                  }
+I'm skipping whatever remains of this command
 The style file: rsc.bst
 Database file #1: rsc-Document.bib
-Database file #2: ../Citations/bibtool.bib
-Warning--I didn't find a database entry for "Peng2020"
+Database file #2: bibtool.bib
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Ashok"
-Warning--I didn't find a database entry for "Zeng2010"
-Warning--I didn't find a database entry for "Schiller2019"
-Warning--I didn't find a database entry for "Laurencin"
-Warning--I didn't find a database entry for "Lemmon2017"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 rsc 2016/08/22 v3.1f
 Warning--Can't use both author and editor fields in Probstein1982
-You've used 9 entries,
+Warning--Empty year in Ashok
+Warning--There's no year in Laurencin
+You can't pop an empty literal stack for entry Laurencin
+while executing---line 1500 of file rsc.bst
+Name 3 in "Lemmon, E.W. and McLinden, M.O. and Friend, and D.G." has a comma at the end for entry Lemmon2017
+while executing---line 1500 of file rsc.bst
+Name 3 in "Lemmon, E.W. and McLinden, M.O. and Friend, and D.G." has a comma at the end for entry Lemmon2017
+while executing---line 1500 of file rsc.bst
+Warning--Empty publisher in Lemmon2017
+You've used 16 entries,
             3113 wiz_defined-function locations,
-            755 strings with 7492 characters,
-and the built_in function-call counts, 3149 in all, are:
-= -- 268
-> -- 170
-< -- 7
-+ -- 54
-- -- 45
-* -- 292
-:= -- 454
-add.period$ -- 8
-call.type$ -- 9
-change.case$ -- 3
-chr.to.int$ -- 10
-cite$ -- 10
-duplicate$ -- 148
-empty$ -- 224
-format.name$ -- 54
-if$ -- 641
+            804 strings with 9080 characters,
+and the built_in function-call counts, 5806 in all, are:
+= -- 476
+> -- 359
+< -- 12
++ -- 113
+- -- 97
+* -- 566
+:= -- 855
+add.period$ -- 15
+call.type$ -- 16
+change.case$ -- 4
+chr.to.int$ -- 17
+cite$ -- 20
+duplicate$ -- 257
+empty$ -- 399
+format.name$ -- 119
+if$ -- 1169
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 69
-num.names$ -- 24
-pop$ -- 36
+newline$ -- 111
+num.names$ -- 45
+pop$ -- 67
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 87
+skip$ -- 151
 stack$ -- 0
-substring$ -- 211
-swap$ -- 77
-text.length$ -- 18
+substring$ -- 368
+swap$ -- 135
+text.length$ -- 33
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 54
-warning$ -- 1
-while$ -- 37
+type$ -- 100
+warning$ -- 4
+while$ -- 63
 width$ -- 0
-write$ -- 134
-(There were 8 warnings)
+write$ -- 231
+(There were 6 error messages)

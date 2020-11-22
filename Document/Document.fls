@@ -205,6 +205,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecbx0500.tfm
 OUTPUT Document.toc
 OUTPUT Document.pdf
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./Chapters/Abstract.tex
+INPUT ./Chapters/Abstract.tex
 INPUT ./Chapters/Introduction.tex
 INPUT ./Chapters/Introduction.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
@@ -243,6 +245,8 @@ INPUT ./Chapters/amphoteric_cell.png
 INPUT Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png
 INPUT ./Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png
 INPUT ./Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png
+INPUT ./Chapters/Conclusion.tex
+INPUT ./Chapters/Conclusion.tex
 INPUT Document.bbl
 INPUT Document.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm

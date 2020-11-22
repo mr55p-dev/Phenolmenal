@@ -10,6 +10,6 @@
 \contentsline {subsection}{\numberline {3.3}Discussion of methane methods}{6}%
 \contentsline {section}{\numberline {4}\ce {H2O} methods}{7}%
 \contentsline {subsection}{\numberline {4.1}Amphoteric cell}{7}%
-\contentsline {subsection}{\numberline {4.2}Solar powered steam electrolysis}{7}%
+\contentsline {subsection}{\numberline {4.2}Solar powered steam electrolysis}{8}%
 \contentsline {subsection}{\numberline {4.3}Discussion of water-splitting methods}{8}%
-\contentsline {section}{\numberline {5}Conclusion}{8}%
+\contentsline {section}{\numberline {5}Conclusion}{9}%

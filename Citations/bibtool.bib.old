@@ -4,37 +4,14 @@
   booktitle	= {Tomorrow's Energy: Hydrogen, Fuel Cells, and the Prospects
 		  for a Cleaner Planet},
   isbn		= {9780262301275},
-  pages		= {1--17, 192--200},
+  pages		= {1--17},
   publisher	= {MIT Press},
   title		= {{Why Hydrogen? The Grand Picture}},
   url		= {https://ieeexplore-ieee-org.ezproxy.nottingham.ac.uk/document/6278114},
   year		= {2012}
 }
 
-@Article{	  ashok,
-  address	= {Boston},
-  author	= {Ashok, J and Ashok, J and Kumar, S Naveen and Kumar, S
-		  Naveen and Subrahmanyam, M and Subrahmanyam, M and
-		  Venugopal, A and Venugopal, A},
-  doi		= {10.1007/s10562-007-9334-z},
-  issn		= {1011-372X},
-  journal	= {Catalysis letters},
-  keywords	= {Carbon
-		  filaments,Catalysis,Catalysts,Chemisorption,Chemistry,Deactivation,Decomposition,Differential
-		  thermal analysis,Hydrogen
-		  production,Hydroxyapatite,Industrial Chemistry/Chemical
-		  Engineering,Metal surfaces,Methane,Methane decomposition,Ni
-		  metal area,Nickel,Organic chemistry,Pharmacy,Physical
-		  Chemistry},
-  language	= {eng},
-  number	= {3},
-  pages		= {283--290},
-  publisher	= {Springer US},
-  shorttitle	= {Catal Lett},
-  title		= {{Pure H2 Production by Decomposition of Methane Over Ni
-		  Supported on Hydroxyapatite Catalysts}},
-  volume	= {121}
-}
+
 
 @Article{	  basile2015,
   abstract	= {Methane steam reforming (MSR) is the most common and
@@ -190,36 +167,11 @@
 @InCollection{	  hoffmann2018,
   author	= {Hoffmann, Peter},
   booktitle	= {Tomorrow's Energy},
-  chapter	= {Fuel Cells},
   doi		= {10.7551/mitpress/8625.003.0003},
   month		= {dec},
-  pages		= {191--195},
   publisher	= {The MIT Press},
   title		= {{Why Hydrogen? The Grand Picture}},
   year		= {2018}
-}
-
-@TechReport{	  iea2020,
-  address	= {Paris},
-  author	= {IEA},
-  institution	= {IEA},
-  title		= {{Renewables 2020}},
-  url		= {https://www.iea.org/reports/renewables-2020},
-  year		= {2020}
-}
-
-@InCollection{	  laurencin,
-  address	= {Weinheim, Germany},
-  author	= {Laurencin, J{\'{e}}r{\^{o}}me and Mougin, Julie},
-  booktitle	= {Hydrogen Production},
-  doi		= {10.1002/9783527676507.ch6},
-  isbn		= {3527333428},
-  keywords	= {high‐temperature steam electrolysis (HTSE),solid oxide
-		  electrolysis cell (SOEC)},
-  language	= {eng},
-  pages		= {191--272},
-  publisher	= {Wiley‐VCH Verlag GmbH {\&} Co. KGaA},
-  title		= {{High‐Temperature Steam Electrolysis}}
 }
 
 @Article{	  lei2019,
@@ -260,95 +212,7 @@
   year		= {2019}
 }
 
-@Book{		  lemmon2017,
-  abstract	= {P.J. Linstrom and W.G. Mallard, Eds., NIST Chemistry
-		  WebBook, NIST Standard Reference Database Number 69,
-		  National Institute of Standards and Technology,
-		  Gaithersburg MD, 20899, http://webbook.nist.gov, (retrieved
-		  April 22, 2013).},
-  author	= {Lemmon, E.W. and McLinden, M.O. and Friend, and D.G.},
-  booktitle	= {NIST Chemistry WebBook},
-  issn		= {0009-4978},
-  number	= {69},
-  title		= {{NIST Chemistry WebBook, NIST Standard Reference
-		  Database}},
-  year		= {2017}
-}
-
-@Article{	  leonard2012,
-  abstract	= {Nanoporous oxides (SiO2, TiO2, ZrO2, and AlOOH)
-		  synthesized from sol–gel chemistry techniques were used
-		  as coatings for stainless steel electrodes in water
-		  electrolysis systems. These oxide coatings have been shown
-		  to provide corrosion protection of the stainless steel
-		  electrodes at potentials positive enough to evolve oxygen
-		  on the positive electrode. In addition, all four oxide
-		  coated electrodes showed a 100–200 mV lower
-		  overpotential for hydrogen evolution than an uncoated
-		  stainless steel electrode. This was attributed to the
-		  ability of the oxide coatings to adsorb hydrogen on the
-		  surface of the electrode. To verify gas production from
-		  these electrodes, a custom alkaline electrolyzer was built
-		  and tested with a constant applied current. The flow rate
-		  of gas was measured for five different electrode connection
-		  configurations, utilizing both monopolar and bipolar
-		  electrodes. The efficiency of the system was calculated to
-		  be between 66 and 75{\%} as defined as the ratio of the
-		  higher heating value of hydrogen to the energy applied to
-		  the system. The oxide coated stainless steel electrodes
-		  were used without any additional catalysts, including the
-		  precious metals.},
-  author	= {Leonard, Kevin C and Tejedor-Anderson, M Isabel and
-		  Anderson, Marc A},
-  doi		= {https://doi.org/10.1016/j.ijhydene.2012.10.008},
-  issn		= {0360-3199},
-  journal	= {International Journal of Hydrogen Energy},
-  keywords	= {Corrosion,Hydrogen
-		  evolution,Nanoparticles,Oxides,Sol–gel,Water
-		  electrolysis},
-  number	= {24},
-  pages		= {18654--18660},
-  title		= {{Nanoporous oxide coatings on stainless steel to enable
-		  water splitting and reduce the hydrogen evolution
-		  overpotential}},
-  url		= {http://www.sciencedirect.com/science/article/pii/S036031991202294X},
-  volume	= {37},
-  year		= {2012}
-}
-
 @Article{	  merrill2006,
-  abstract	= {Metal oxide catalysts for alkaline water electrolysis were
-		  created through cathodic electrodeposition and the
-		  deposition variables were explored. It was discovered that
-		  the use of ammonium electrolytes and higher current
-		  densities during deposition improved catalytic kinetic
-		  performance for the oxygen and hydrogen evolution
-		  reactions. A NiFe oxide catalyst was developed with a
-		  greater than 99 {\%} ideal charge transfer coefficient for
-		  oxygen evolution and a NiV oxide catalyst was developed
-		  with a greater than 99.9 {\%} ideal charge transfer
-		  coefficient. Combined, the NiFe and NiV catalysts catalyzed
-		  water electrolysis at greater than 99 {\%} efficiency below
-		  10 mA/cm2. The NiFe oxide was characterized as being both
-		  highly conductive and highly disordered. NiFe, CoFe, and
-		  NiCo oxide oxygen evolution catalytic mechanisms were
-		  elucidated with electrochemical impedance spectroscopy. The
-		  relationship between the charge transfer coefficient of the
-		  Butler- Volmer model and the charge transfer resistance of
-		  electrochemical impedance spectroscopy was empirically
-		  demonstrated. The distortions of impedance on non-linear
-		  systems was demonstrated and discussed.},
-  author	= {Merrill, Matthew D},
-  file		= {:Users/ellis/Downloads/PDF datastream.pdf:pdf},
-  journal	= {Thesis},
-  keywords	= {Electrochemistry,Hydrogen Evo,Water Electrolysis},
-  number	= {January 2007},
-  pages		= {1--86},
-  title		= {{Water Electrolysis At the Thermodynamic Limit}},
-  year		= {2006}
-}
-
-@Article{	  merrill2006a,
   abstract	= {Metal oxide catalysts for alkaline water electrolysis were
 		  created through cathodic electrodeposition and the
 		  deposition variables were explored. It was discovered that
@@ -480,55 +344,6 @@
   year		= {2013}
 }
 
-@Article{	  peng2020,
-  abstract	= {In the context of the current serious problems related to
-		  energy demand and climate change, substantial progress has
-		  been made in developing a sustainable energy system.
-		  Electrochemical hydrogen–water conversion is an ideal
-		  energy system that can produce fuels via sustainable,
-		  fossil-free pathways. However, the energy conversion
-		  efficiency of two functioning technologies in this energy
-		  system—namely, water electrolysis and the fuel
-		  cell—still has great scope for improvement. This review
-		  analyzes the energy dissipation of water electrolysis and
-		  the fuel cell in the hydrogen–water energy system and
-		  discusses the key barriers in the hydrogen- and
-		  oxygen-involving reactions that occur on the catalyst
-		  surface. By means of the scaling relations between reactive
-		  intermediates and their apparent catalytic performance,
-		  this article summarizes the frameworks of the catalytic
-		  activity trends, providing insights into the design of
-		  highly active electrocatalysts for the involved reactions.
-		  A series of structural engineering methodologies (including
-		  nanoarchitecture, facet engineering, polymorph engineering,
-		  amorphization, defect engineering, element doping,
-		  interface engineering, and alloying) and their applications
-		  based on catalytic performance are then introduced, with an
-		  emphasis on the rational guidance from previous theoretical
-		  and experimental studies. The key scientific problems in
-		  the electrochemical hydrogen–water conversion system are
-		  outlined, and future directions are proposed for developing
-		  advanced catalysts for technologies with high
-		  energy-conversion efficiency.},
-  author	= {Peng, Lishan and Wei, Zidong},
-  doi		= {10.1016/j.eng.2019.07.028},
-  file		= {:Users/ellis/Downloads/1-s2.0-S2095809919300700-main.pdf:pdf},
-  issn		= {20958099},
-  journal	= {Engineering},
-  keywords	= {Electrocatalysis,Electrocatalyst engineering,Fuel
-		  cell,Hydrogen–water energy conversion,Renewable energy
-		  system,Structure design,Water electrolysis},
-  number	= {6},
-  pages		= {653--679},
-  publisher	= {Chinese Academy of Engineering},
-  title		= {{Catalyst Engineering for Electrochemical Energy
-		  Conversion from Water to Water: Water Electrolysis and the
-		  Hydrogen Fuel Cell}},
-  url		= {https://doi.org/10.1016/j.eng.2019.07.028},
-  volume	= {6},
-  year		= {2020}
-}
-
 @Book{		  probstein1982,
   address	= {New York},
   author	= {Probstein, Ronald F},
@@ -657,52 +472,6 @@
   year		= {2020}
 }
 
-@Article{	  schiller2019,
-  abstract	= {Water electrolysis is considered as a suitable pathway for
-		  the production of large amounts of hydrogen to be used as
-		  energy carrier for electricity storage. Among the existing
-		  water electrolysis technologies solid oxide steam
-		  electrolysis exhibits the highest electrical efficiency.
-		  Moreover, from thermodynamic considerations the efficiency
-		  can be further increased when part of the energy demand is
-		  provided by the integration of external high temperature
-		  heat to reduce the electrical energy for the water
-		  splitting reaction. This paper reports on the successful
-		  integration of solar heat into a solid oxide electrolyzer.
-		  The experimental setup of the prototype system consisting
-		  of a solar simulator, a solar steam generator, a steam
-		  accumulator and a solid oxide electrolyzer as well as first
-		  results with regard to solar steam generation and
-		  electrochemical performance of the electrolyzer are
-		  presented. Hot steam with a maximum flow rate of 5.0
-		  kgh−1 was produced with the solar steam generator. A
-		  small fraction (0.58 kgh−1) mixed with 10{\%} of H2 was
-		  supplied to a 12-cell solid oxide electrolyzer stack with
-		  approx. 2 kW electrical power. At 770 °C and a current
-		  density of −1.25 Acm−2 a steam conversion rate of
-		  70{\%} at 93{\%} electrical electrolyzer efficiency was
-		  achieved.},
-  author	= {Schiller, G{\"{u}}nter and Lang, Michael and Szabo, Patric
-		  and Monnerie, Nathalie and von Storch, Henrik and Reinhold,
-		  Jan and Sundarraj, Pradeepkumar},
-  doi		= {10.1016/j.jpowsour.2019.01.059},
-  file		= {:Users/ellis/Downloads/1-s2.0-S0378775319300710-main-3.pdf:pdf},
-  issn		= {03787753},
-  journal	= {Journal of Power Sources},
-  keywords	= {Electrochemical and thermal behavior,High temperature
-		  steam electrolysis (SOEC),Hydrogen,Solar heat
-		  integration,Solar steam generator,Solid oxide electrolyzer
-		  stack},
-  number	= {February},
-  pages		= {72--78},
-  publisher	= {Elsevier},
-  title		= {{Solar heat integrated solid oxide steam electrolysis for
-		  highly efficient hydrogen production}},
-  url		= {https://doi.org/10.1016/j.jpowsour.2019.01.059},
-  volume	= {416},
-  year		= {2019}
-}
-
 @Article{	  snic,
   abstract	= {Reduction of acids to molecular hydrogen as a means of
 		  storing energy is catalyzed by platinum, but its low
@@ -765,70 +534,4 @@
   url		= {https://doi.org/10.1021/ja511615s},
   volume	= {137},
   year		= {2015}
-}
-
-@Article{	  zeng2010,
-  abstract	= {Alkaline water electrolysis is one of the easiest methods
-		  for hydrogen production, offering the advantage of
-		  simplicity. The challenges for widespread use of water
-		  electrolysis are to reduce energy consumption, cost and
-		  maintenance and to increase reliability, durability and
-		  safety. This literature review examines the current state
-		  of knowledge and technology of hydrogen production by water
-		  electrolysis and identifies areas where R{\&}D effort is
-		  needed in order to improve this technology. Following an
-		  overview of the fundamentals of alkaline water
-		  electrolysis, an electrical circuit analogy of resistances
-		  in the electrolysis system is introduced. The resistances
-		  are classified into three categories, namely the electrical
-		  resistances, the reaction resistances and the transport
-		  resistances. This is followed by a thorough analysis of
-		  each of the resistances, by means of thermodynamics and
-		  kinetics, to provide a scientific guidance to minimising
-		  the resistance in order to achieve a greater efficiency of
-		  alkaline water electrolysis. The thermodynamic analysis
-		  defines various electrolysis efficiencies based on
-		  theoretical energy input and cell voltage, respectively.
-		  These efficiencies are then employed to compare different
-		  electrolysis cell designs and to identify the means to
-		  overcome the key resistances for efficiency improvement.
-		  The kinetic analysis reveals the dependence of reaction
-		  resistances on the alkaline concentration, ion transfer,
-		  and reaction sites on the electrode surface, the latter is
-		  determined by the electrode materials. A quantitative
-		  relationship between the cell voltage components and
-		  current density is established, which links all the
-		  resistances and manifests the importance of reaction
-		  resistances and bubble resistances. The important effect of
-		  gas bubbles formed on the electrode surface and the need to
-		  minimise the ion transport resistance are highlighted. The
-		  historical development and continuous improvement in the
-		  alkaline water electrolysis technology are examined and
-		  different water electrolysis technologies are
-		  systematically compared using a set of the practical
-		  parameters derived from the thermodynamic and kinetic
-		  analyses. In addition to the efficiency improvements, the
-		  needs for reduction in equipment and maintenance costs, and
-		  improvement in reliability and durability are also
-		  established. The future research needs are also discussed
-		  from the aspects of electrode materials, electrolyte
-		  additives and bubble management, serving as a comprehensive
-		  guide for continuous development of the water electrolysis
-		  technology. {\textcopyright} 2009 Elsevier Ltd. All rights
-		  reserved.},
-  author	= {Zeng, Kai and Zhang, Dongke},
-  doi		= {10.1016/j.pecs.2009.11.002},
-  file		= {:Users/ellis/Downloads/1-s2.0-S0360128509000598-main-2.pdf:pdf},
-  issn		= {03601285},
-  journal	= {Progress in Energy and Combustion Science},
-  keywords	= {Electrochemistry,Electrolyte,Gas
-		  bubbles,Hydrogen,Renewable energy,Water electrolysis},
-  number	= {3},
-  pages		= {307--326},
-  publisher	= {Elsevier Ltd},
-  title		= {{Recent progress in alkaline water electrolysis for
-		  hydrogen production and applications}},
-  url		= {http://dx.doi.org/10.1016/j.pecs.2009.11.002},
-  volume	= {36},
-  year		= {2010}
 }

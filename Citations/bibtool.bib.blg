@@ -1,0 +1,39 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 running in TOOL mode
+[0] Config.pm:307> INFO - Logfile is './bibtool.bib.blg'
+[90] biber-darwin:322> INFO - === Sun Nov 22, 2020, 19:37:02
+[112] Utils.pm:75> INFO - Globbing data source './bibtool.bib'
+[112] Utils.pm:91> INFO - Globbed data source './bibtool.bib' to ./bibtool.bib
+[131] Biber.pm:4451> INFO - Looking for bibtex format file './bibtool.bib'
+[138] bibtex.pm:1653> INFO - LaTeX decoding ...
+[237] bibtex.pm:1471> INFO - Found BibTeX data source './bibtool.bib'
+[430] Utils.pm:304> WARN - month field 'dec' in entry 'hoffmann2018' is not an integer - this will probably not sort properly.
+[540] Utils.pm:304> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[540] Biber.pm:1566> INFO - Datamodel validation starting
+[541] Utils.pm:304> WARN - Datamodel: Entry 'ashok' (./bibtool.bib): Invalid field 'location' for entrytype 'article'
+[541] Utils.pm:304> WARN - Datamodel: Entry 'ashok' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[541] Utils.pm:304> WARN - Datamodel: Entry 'ashok' (./bibtool.bib): Missing mandatory field - one of 'date, year' must be defined
+[542] Utils.pm:304> WARN - Datamodel: Entry 'basile2015' (./bibtool.bib): Invalid field 'isbn' for entrytype 'article'
+[543] Utils.pm:304> WARN - Datamodel: Entry 'hoffmann2018' (./bibtool.bib): Missing mandatory field 'editor'
+[544] Utils.pm:304> WARN - Datamodel: Entry 'laurencin' (./bibtool.bib): Missing mandatory field - one of 'date, year' must be defined
+[544] Utils.pm:304> WARN - Datamodel: Entry 'laurencin' (./bibtool.bib): Missing mandatory field 'editor'
+[544] Utils.pm:304> WARN - Datamodel: Entry 'lei2019' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[544] Utils.pm:304> WARN - Datamodel: Entry 'lemmon2017' (./bibtool.bib): Invalid field 'booktitle' for entrytype 'book'
+[544] Utils.pm:304> WARN - Datamodel: Entry 'lemmon2017' (./bibtool.bib): Invalid field 'issn' for entrytype 'book'
+[545] Utils.pm:304> WARN - Datamodel: Entry 'msr1' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[545] Utils.pm:304> WARN - Datamodel: Entry 'ok2013' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[545] Utils.pm:304> WARN - Datamodel: Entry 'peng2020' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[546] Utils.pm:304> WARN - Datamodel: Entry 'rlr2013' (./bibtool.bib): Invalid field 'location' for entrytype 'article'
+[546] Utils.pm:304> WARN - Datamodel: Entry 'rlr2013' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[546] Utils.pm:304> WARN - Datamodel: Entry 'sbn2020' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[546] Utils.pm:304> WARN - Datamodel: Entry 'schiller2019' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[546] Utils.pm:304> WARN - Datamodel: Entry 'snic' (./bibtool.bib): Invalid field 'location' for entrytype 'article'
+[547] Utils.pm:304> WARN - Datamodel: Entry 'snic' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[547] Utils.pm:304> WARN - Datamodel: Entry 'zeng2010' (./bibtool.bib): Invalid field 'publisher' for entrytype 'article'
+[547] Biber.pm:1609> INFO - Datamodel validation complete
+[565] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[566] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[566] Biber.pm:4084> INFO - Sorting list 'tool/global//global/global' of type 'entry' with template 'tool' and locale 'en_US'
+[566] Biber.pm:4090> INFO - No sort tailoring available for locale 'en_US'
+[605] bibtex.pm:384> INFO - Writing '_bibertool.bib' with encoding 'UTF-8'
+[608] bibtex.pm:414> INFO - Output to _bibertool.bib
+[608] Biber.pm:128> INFO - WARNINGS: 22
