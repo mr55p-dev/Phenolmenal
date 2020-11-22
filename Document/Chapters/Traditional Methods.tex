@@ -1,0 +1,53 @@
+\subsection{Steam methane reformation}%
+\label{sub:steam_methane_reformation}
+
+The steam methane reformation reaction is an extremely inexpensive and widespread method for producing molecular hydrogen in a commercial setting.
+The reaction follows the scheme\cite{Saxena2011}:
+\begin{align}
+	\ce{CH4(g) + H2O(l) &-> 3H2(g) + CO(g)} \label{ce:steam-reformation}\\
+	\Delta H &= \SI{379}{\kilo\joule},\ \SI{1500}{K} \nonumber
+.\end{align}
+There is also a secondary mechanism for extracting hydrogen from the carbon monoxide by-product of this first stage reaction, which runs at a lower temperature and is called a water gas shift reaction\cite{Chen2008,Saxena2011}.
+\begin{align}
+	\ce{CO + H2O &-> CO2 + H2}\label{ce:water-shift} \\
+	\Delta H &= \SI{-41.1}{\kilo\joule\per\mole},\ \SI{1200}{K} \nonumber
+.\end{align}
+This basic reaction scheme is applied to generate approximately 40\% of the global hydrogen demand\cite{SBN2020}; primarily due to using readily available reagents, it is a mature technique and it is inexpensive.
+
+Although both reactions \eqref{ce:steam-reformation} and \eqref{ce:water-shift} can proceed without the use of a catalyst one is often employed for the water gas shift reaction \eqref{ce:water-shift} in order to increase the hydrogen yield.
+Iron-chromium or copper-zinc compounds are often used dependant on if the reaction is a low- or high-temperature shift. 
+
+Unfortunately this method doesn't produce hydrogen in a sustainable way; the production rate without the gas shift reaction is low, and produces one equivalent of \ce{CO} for every three of \ce{H2}.
+When the gas shift reaction is used this toxic carbon monoxide is used to generate further \ce{H2}, as well as the pollutant gas \ce{CO2}.
+Placing additional strain on the planet by up scaling steam reformation processes will only lead to further damage of the planet, so this process is not useful when considering fuelling a hydrogen powered society.
+
+
+\subsection{Uncatalysed electrolysis of water}%
+\label{sub:uncatalysed_electrolysis_of_water}
+
+Water electrolysis is another basic technique for extracting hydrogen, this time from water.
+Water is an incredibly naturally abundant chemical making up a large fraction of the earth's surface.
+When hydrogen is consumed by a fuel cell, water is the sole by-product.
+Water can be split into hydrogen and oxygen via an electrolytic cell, where at the anode reaction \eqref{eq:UC_oxidation} occurs and at the cathode reaction \eqref{eq:UC_reduction} occurs.
+\begin{align}
+	\ce{2H2O &-> 4e- + 4H+ + O2} \label{eq:UC_oxidation} \\
+	\ce{2H+ + 2e- &-> H2} \label{eq:UC_reduction}
+.\end{align}
+A common choice of electrolyte for these kinds of cells is \ce{KOH}; an alkaline cell is more efficient\cite{merrill2006}.
+\ce{KOH} has the highest charge mobility and solubility in water of the group I and II hydroxides, which makes it the best choice in this case.
+
+Catalytic design is important as when uncatalysed, the electrolytic approach to inter converting  \ce{H2}, \ce{O2} and  \ce{H2O} is not feasible.
+In acidic or alkaline solution, the standard cell potential for an electrolytic cell splitting water is equal to the standard potential generated from recombination in a fuel cell, \SI{1.23}{\volt}\cite{Peng2020}.
+In practice however, there are many barriers to this reaction which result in uncatalysed cells always requiring a potential difference greater than \SI{1.80}{\volt}.
+There are various practical issues which cause the greatly decreased efficiency; resistance inside the cell due to work required to move protons, product gasses resulting in a bad connection between the surface of the electrode and the electrolyte, and resistances outside the cell such as the work required for electrons to be conducted through a wire.
+
+Uncatalysed electrolysis is a foundational method on which the water splitting methods is built - catalysts are often deposited on the anode and cathode to lower the reaction barrier and reduce the overpotential that afflicts this method.
+There are many possible catalysts, almost all of which involve adsorbtion of protons onto the electrode surface followed by the addition of two supplied electrons, as given in the equation below \eqref{eq:UC_hads,Leonard2012}.
+\begin{align}
+	\ce{H+ + e- &-> H_{ads}}\\
+	\ce{2H_{ads} &-> H2}\\
+	\ce{H+ + e- + H_{ads} &-> H2} \label{eq:UC_hads}
+.\end{align}
+Solving the problems with overpotential using safe, effective and cheap catalysts is a promising area of study which could lead to electrolytically generating hydrogen on an industrial scale.
+
+
