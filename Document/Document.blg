@@ -1,21 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Document.aux
-Case mismatch error between cite keys sbn2020 and SBN2020
----line 56 of file Document.aux
- : \citation{sbn2020
- :                  }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys sbn2020 and SBN2020
----line 57 of file Document.aux
- : \citation{sbn2020
- :                  }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys sbn2020 and SBN2020
----line 64 of file Document.aux
- : \citation{sbn2020
- :                  }
-I'm skipping whatever remains of this command
 The style file: rsc.bst
 Database file #1: rsc-Document.bib
 Database file #2: bibtool.bib
@@ -23,55 +8,45 @@ Warning--I didn't find a database entry for ""
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 rsc 2016/08/22 v3.1f
-Warning--Can't use both author and editor fields in Probstein1982
-Warning--Empty year in Ashok
-Warning--There's no year in Laurencin
-You can't pop an empty literal stack for entry Laurencin
-while executing---line 1500 of file rsc.bst
-Name 3 in "Lemmon, E.W. and McLinden, M.O. and Friend, and D.G." has a comma at the end for entry Lemmon2017
-while executing---line 1500 of file rsc.bst
-Name 3 in "Lemmon, E.W. and McLinden, M.O. and Friend, and D.G." has a comma at the end for entry Lemmon2017
-while executing---line 1500 of file rsc.bst
-Warning--Empty publisher in Lemmon2017
-You've used 16 entries,
+You've used 18 entries,
             3113 wiz_defined-function locations,
-            804 strings with 9080 characters,
-and the built_in function-call counts, 5806 in all, are:
-= -- 476
-> -- 359
-< -- 12
-+ -- 113
-- -- 97
-* -- 566
-:= -- 855
-add.period$ -- 15
-call.type$ -- 16
+            816 strings with 9447 characters,
+and the built_in function-call counts, 6303 in all, are:
+= -- 528
+> -- 370
+< -- 13
++ -- 117
+- -- 99
+* -- 601
+:= -- 914
+add.period$ -- 17
+call.type$ -- 18
 change.case$ -- 4
-chr.to.int$ -- 17
-cite$ -- 20
-duplicate$ -- 257
-empty$ -- 399
-format.name$ -- 119
-if$ -- 1169
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 283
+empty$ -- 449
+format.name$ -- 124
+if$ -- 1282
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 111
-num.names$ -- 45
-pop$ -- 67
+newline$ -- 123
+num.names$ -- 48
+pop$ -- 78
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 151
+skip$ -- 167
 stack$ -- 0
-substring$ -- 368
-swap$ -- 135
-text.length$ -- 33
+substring$ -- 406
+swap$ -- 143
+text.length$ -- 37
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 100
-warning$ -- 4
-while$ -- 63
+type$ -- 114
+warning$ -- 0
+while$ -- 67
 width$ -- 0
-write$ -- 231
-(There were 6 error messages)
+write$ -- 259
+(There was 1 warning)

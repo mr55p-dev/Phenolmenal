@@ -1,7 +1,7 @@
 \providecommand*{\mcitethebibliography}{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
 {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{16}
+\begin{mcitethebibliography}{18}
 \providecommand*{\natexlab}[1]{#1}
 \providecommand*{\mciteSetBstSublistMode}[1]{}
 \providecommand*{\mciteSetBstMaxWidthForm}[2]{}
@@ -74,16 +74,24 @@ L.~Peng and Z.~Wei, \emph{Engineering}, 2020, \textbf{6}, 653--679\relax
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Leonard \emph{et~al.}(2012)Leonard, Tejedor-Anderson, and
+  Anderson]{Leonard2012}
+K.~C. Leonard, M.~I. Tejedor-Anderson and M.~A. Anderson, \emph{International
+  Journal of Hydrogen Energy}, 2012, \textbf{37}, 18654--18660\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[IEA(2020)]{IEA2020}
 IEA, \emph{{Renewables 2020}}, Iea technical report, 2020\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Ashok \emph{et~al.}()Ashok, Ashok, Kumar, Kumar, Subrahmanyam,
+\bibitem[Ashok \emph{et~al.}(2008)Ashok, Ashok, Kumar, Kumar, Subrahmanyam,
   Subrahmanyam, Venugopal, and Venugopal]{Ashok}
 J.~Ashok, J.~Ashok, S.~N. Kumar, S.~N. Kumar, M.~Subrahmanyam, M.~Subrahmanyam,
-  A.~Venugopal and A.~Venugopal, \emph{Catalysis letters}, \textbf{121},
+  A.~Venugopal and A.~Venugopal, \emph{Catalysis letters}, 2008, \textbf{121},
   283--290\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
@@ -112,17 +120,22 @@ G.~Schiller, M.~Lang, P.~Szabo, N.~Monnerie, H.~von Storch, J.~Reinhold and
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Laurencin and Mougin()]{Laurencin}
+\bibitem[Laurencin and Mougin(2008)]{Laurencin}
 J.~Laurencin and J.~Mougin, in \emph{Hydrogen Production}, Wiley‐VCH Verlag
-  GmbH {\&} Co. KGaA, Weinheim, Germany, pp. 191--272\relax
+  GmbH {\&} Co. KGaA, Weinheim, Germany, 2008, pp. 191--272\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Lemmon \emph{et~al.}(2017)Lemmon, McLinden, Friend, and
-  D.G.]{Lemmon2017}
-E.~Lemmon, M.~McLinden, Friend and D.G., \emph{{NIST Chemistry WebBook, NIST
-  Standard Reference Database}}, 2017\relax
+\bibitem[Lemmon and McLinden(2017)]{Lemmon2017}
+E.~Lemmon and M.~McLinden, \emph{{NIST Chemistry WebBook, NIST Standard
+  Reference Database}}, NIST, 2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[lng()]{lngamerica}
+\emph{{About LNG}}, \url{http://www.lngamerica.com/lng-facts.html}\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
