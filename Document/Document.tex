@@ -1,5 +1,12 @@
 \documentclass[a4paper]{article}
 
+\usepackage[]{geometry}
+\geometry{
+	a4paper,
+	left=20mm,
+	right=20mm
+}
+\usepackage{float}
 \usepackage[version=4]{mhchem}
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
@@ -16,6 +23,8 @@
 \usepackage{parskip}
 \restoreparindent
 
+\usepackage[]{multicol}
+
 % figure support
 \usepackage{import}
 \usepackage{xifthen}
@@ -23,8 +32,12 @@
 \usepackage{pdfpages}
 \usepackage{transparent}
 
+\graphicspath{{Chapters/}}
+
 \pdfsuppresswarningpagegroup=1
 \counterwithin{equation}{section}
+
+\newcolumntype{L}{>{\centering\arraybackslash}m{5cm}}
 
 \title{A comparison of methane decomposition and water splitting reaction methods as a means to produce molecular hydrogen.}
 \author{E. Lunnon, W. Ogle, A. Nicholson, N. Simons}
@@ -32,30 +45,24 @@
 \begin{document}
 \maketitle
 \tableofcontents
-\newpage
-
-
-\section*{Abstract}%
-\label{sec:abstract}
-
-\cite{lei2019}
-\cite{6278114}
-\cite{merrill2006}
-
 \clearpage
 
+\begin{multicols}{2}
+\section*{Abstract}%
+\label{sec:abstract}
+\clearpage
 
 \section{Introduction}%
 \label{sec:introduction}
 
-\input{Introduction.tex}
+\input{./Chapters/Introduction.tex}
 
-\clearpage
+%\clearpage
 
 \section{Traditional Methods}%
 \label{sub:Traditional_Methods}
 
-\input{Traditional Methods.tex}
+\input{./Chapters/Traditional Methods.tex}
 %\subsection{Methane steam reformation}%
 %\label{sub:Steam_reformation}
 
@@ -64,28 +71,28 @@
 %We will also find why this process is so widely used and what benefits it has over other lesser used techniques.
 
 
-\subsection{Uncatalysed electrolysis}%
-\label{sub:Uncatalysed_electrolysis}
-
-This section will discuss uncatalysed water splitting via electrolytic methods, with specific focus on why this method is an important foundation and the theory behind it.
-There will also be a discussion of why this method alone is not a suitable solution to the problem of producing hydrogen on an industrial scale.
-
-\subsection{Enzyme catalysed production}% 
-\label{sub:enzyme_catalysed_production}
-
-This will discuss how the \ce{[FeFe]-hydrogenases} can generate molecular hydrogen in the body as a molecule for energy storage. 
-It will discuss the mechanism of this process, the transition metal centres employed as well as how it came to be, the biological significance of hydrogen and also some attempts to replicate this using bioinorganic chemistry.
-We can also discuss the application of using organisms to generate hydrogen industrially.
-
-\subsection{Discussion}%
-\label{sub:discussion_trad}
-In this section we will discuss and evaluate the current methods, their drawbacks and the reason that none of these methods can currently meet the demands of a hydrogen fuel based society.
-We will also outline the criteria that an alternative method must be able to meet in order to be a viable solution to energy efficient production of hydrogen for use in fuel cells.
-
+%\subsection{Uncatalysed electrolysis}%
+%\label{sub:Uncatalysed_electrolysis}
+%
+%This section will discuss uncatalysed water splitting via electrolytic methods, with specific focus on why this method is an important foundation and the theory behind it.
+%There will also be a discussion of why this method alone is not a suitable solution to the problem of producing hydrogen on an industrial scale.
+%
+%\subsection{Enzyme catalysed production}% 
+%\label{sub:enzyme_catalysed_production}
+%
+%This will discuss how the \ce{[FeFe]-hydrogenases} can generate molecular hydrogen in the body as a molecule for energy storage. 
+%It will discuss the mechanism of this process, the transition metal centres employed as well as how it came to be, the biological significance of hydrogen and also some attempts to replicate this using bioinorganic chemistry.
+%We can also discuss the application of using organisms to generate hydrogen industrially.
+%
+%\subsection{Discussion}%
+%\label{sub:discussion_trad}
+%In this section we will discuss and evaluate the current methods, their drawbacks and the reason that none of these methods can currently meet the demands of a hydrogen fuel based society.
+%We will also outline the criteria that an alternative method must be able to meet in order to be a viable solution to energy efficient production of hydrogen for use in fuel cells.
+%
 \section{\ce{CH4} methods}%
 \label{sub:ch4_methods}
 
-\input{Methane Methods.tex}
+\input{./Chapters/Methane Methods.tex}
 
 %\subsection{Thermal decomposition methods}%
 %\label{sub:Thermal_decomposition_methods}
@@ -93,79 +100,77 @@ We will also outline the criteria that an alternative method must be able to mee
 %We will then look at the differing temperatures for producing \ce{H2} given different \ce{Fe/M} ratios for each \ce{M}.
 %We will then look at a comparison between the various \ce{Fe-M} with the use of pure \ce{Fe} in terms of the temperature required for production of \ce{H2}.
 %Finally we will discuss the advantages and disadvantages of the \ce{Fe-M} catalysts for production of \ce{H2}.
-
-\subsection{Radical chain reactions}%
-\label{sub:Radical_chain_reactions}
-Here we will start by discussing the pros and cons of free radical chemistry and the general reaction pathway. 
-We will then talk about how the use of each of the catalysts can change the reaction conditions and pathway and give the advantages and the disadvantages 0f the method and its greenness.
-
-\subsection{Discussion}%
-\label{sub:discussion_meth}
-This section will deal with evaluating the methane decomposition methods given above; why they are relevant, and which shows more promise.
-The work outlining each method will be briefly discussed, relating each of them back to how they can provide a solution to the initial problem and where they fall short. 
+%
+%\subsection{Radical chain reactions}%
+%%\label{sub:Radical_chain_reactions}
+%Here we will start by discussing the pros and cons of free radical chemistry and the general reaction pathway. 
+%We will then talk about how the use of each of the catalysts can change the reaction conditions and pathway and give the advantages and the disadvantages 0f the method and its greenness.
+%
+%\subsection{Discussion}%
+%\label{sub:discussion_meth}
+%This section will deal with evaluating the methane decomposition methods given above; why they are relevant, and which shows more promise.
+%The work outlining each method will be briefly discussed, relating each of them back to how they can provide a solution to the initial problem and where they fall short. 
 
 \section{\ce{H2O} methods}%
 \label{sub:h2o_methods}
 
-\subsection{Using \ce{[Co(N4 - Py)(H2O)](PF6)3} as a catalyst}%
-\label{sub:Using_ce_Co_N4_Py_H2O_PF6_3_as_a_catalyst}
-We will begin by discussing the synthetic method for producing this catalyst and similar catalysts along with their redox potentials.
-We will include discussion of the thermodynamics of the method for producing \ce{H2} from \ce{H2O}, the rate of \ce{H2} production and how pH affects it.
+\input{./Chapters/WSMethods.tex}
 
-\subsection{Using \ce{GaN} in photolytic \ce{H2} production}%
-\label{sub:Using_ce_GaN_in_photolytic_ce_H2_production}
-This method needs to include how the compound is made and the relevance of the\ce{N3-} conduction and valence-band to the oxidation and reduction potentials of \ce{H2O}. 
-The thermodynamics of the process and its rate of reaction along with the reaction conditions and its efficiency are also important to this approach and will be analysed.
-Another point to include is the advantages of the reaction like its greenness but also its disadvantages such as power usage, degradation of the Xe lamp and poor rate of reaction.
-
-\subsection{Photocatalysts for \ce{H2O} splitting with graphene oxide-\ce{TiO2}}%
-\label{sub:Photocatalysts_for_ce_H2O_splitting_with_graphene_oxide}
-We will start with a comparison of the initial activity of hydrogen for various metal sulphide catalysts with differing  methods of loading a Pt co-catalyst. 
-We will then look at \ce{CuGaS2} in particular, comparing the initial \ce{H2} activity under different conditions (i.e. with or without \ce{Pt} and with or without a reduced graphene oxide \ce{(RGO)-TiO2} co-catalyst).
-Next we will look at a comparison of various metal co-catalysts with \ce{Pt}.
-Finally evaluate the advantages and disadvantages of metal sulphide and \ce{(RGO)-TiO2} co-catalysts.
-
-\subsection{Dehydrogenation of methanol in \ce{MeOH/H2O} using \ce{Ru} with a chelating ligand as a catalyst}%
-\label{sub:Dehydrogenation_of_methanol_in_ce_MeOH_H2O_using_a_ce_Ru_catalyst}
-We will start by looking at the generation of the catalyst, its use in the catalytic cycle which produces \ce{H2}. 
-Then we will look at the rate, thermodynamics and yield of the reaction. 
-Finally we will give some analysis of the advantages and disadvantages of this method and its greenness.
-
-\subsection{Thermo-photo catalytic water splitting reactions using methanol as the sacrificial reagent}%
-\label{sub:Thermo_photo_catalytic_water_splitting_reactions_using_methanol_as_the_sacrificial_reagent}
-We will start by looking at the generation of the \ce{NiOX/TiO2} and its use in the thermo-photo catalytic water splitting with methanol as the sacrificial agent on a light-diffuse-reflection \ce{SiO2} substrate.
-Then we will look at the effect of conditions on yield and the optimum production rate achieved.
-Finally give some analysis of the advantages and disadvantages of this method compared to the traditional methane reformation method and consider the sustainability of this process taking into account the 12 principles of green chemistry.
-
-\subsection{Discussion}%
-\label{sub:discussion_water}
-This section will deal with evaluating the water electrolytic methods given above; why they are relevant, and which show more promise.
-The work outlining each method will be briefly discussed, relating each of them back to how they can provide a solution to the initial problem and where they fall short. 
-
-\section{Evaluation}%
-\label{sec:evaluation}
-This section will look broadly at the two methods which have been outlined in the chapters above.
-We will look at which approach has more promise and more viable solutions to the question, as well as where they both fall short of meeting the task. 
-Finally there will be a discussion of the challenges associated with making these techniques scalable.
+%\subsection{Using \ce{[Co(N4 - Py)(H2O)](PF6)3} as a catalyst}%
+%\label{sub:Using_ce_Co_N4_Py_H2O_PF6_3_as_a_catalyst}
+%We will begin by discussing the synthetic method for producing this catalyst and similar catalysts along with their redox potentials.
+%We will include discussion of the thermodynamics of the method for producing \ce{H2} from \ce{H2O}, the rate of \ce{H2} production and how pH affects it.
+%
+%\subsection{Using \ce{GaN} in photolytic \ce{H2} production}%
+%\label{sub:Using_ce_GaN_in_photolytic_ce_H2_production}
+%This method needs to include how the compound is made and the relevance of the\ce{N3-} conduction and valence-band to the oxidation and reduction potentials of \ce{H2O}. 
+%The thermodynamics of the process and its rate of reaction along with the reaction conditions and its efficiency are also important to this approach and will be analysed.
+%Another point to include is the advantages of the reaction like its greenness but also its disadvantages such as power usage, degradation of the Xe lamp and poor rate of reaction.
+%
+%\subsection{Photocatalysts for \ce{H2O} splitting with graphene oxide-\ce{TiO2}}%
+%\label{sub:Photocatalysts_for_ce_H2O_splitting_with_graphene_oxide}
+%We will start with a comparison of the initial activity of hydrogen for various metal sulphide catalysts with differing  methods of loading a Pt co-catalyst. 
+%We will then look at \ce{CuGaS2} in particular, comparing the initial \ce{H2} activity under different conditions (i.e. with or without \ce{Pt} and with or without a reduced graphene oxide \ce{(RGO)-TiO2} co-catalyst).
+%Next we will look at a comparison of various metal co-catalysts with \ce{Pt}.
+%Finally evaluate the advantages and disadvantages of metal sulphide and \ce{(RGO)-TiO2} co-catalysts.
+%
+%\subsection{Dehydrogenation of methanol in \ce{MeOH/H2O} using \ce{Ru} with a chelating ligand as a catalyst}%
+%\label{sub:Dehydrogenation_of_methanol_in_ce_MeOH_H2O_using_a_ce_Ru_catalyst}
+%We will start by looking at the generation of the catalyst, its use in the catalytic cycle which produces \ce{H2}. 
+%Then we will look at the rate, thermodynamics and yield of the reaction. 
+%Finally we will give some analysis of the advantages and disadvantages of this method and its greenness.
+%
+%\subsection{Thermo-photo catalytic water splitting reactions using methanol as the sacrificial reagent}%
+%\label{sub:Thermo_photo_catalytic_water_splitting_reactions_using_methanol_as_the_sacrificial_reagent}
+%We will start by looking at the generation of the \ce{NiOX/TiO2} and its use in the thermo-photo catalytic water splitting with methanol as the sacrificial agent on a light-diffuse-reflection \ce{SiO2} substrate.
+%Then we will look at the effect of conditions on yield and the optimum production rate achieved.
+%Finally give some analysis of the advantages and disadvantages of this method compared to the traditional methane reformation method and consider the sustainability of this process taking into account the 12 principles of green chemistry.
+%
+%\subsection{Discussion}%
+%\label{sub:discussion_water}
+%This section will deal with evaluating the water electrolytic methods given above; why they are relevant, and which show more promise.
+%The work outlining each method will be briefly discussed, relating each of them back to how they can provide a solution to the initial problem and where they fall short. 
+%
+%\section{Evaluation}%
+%\label{sec:evaluation}
+%This section will look broadly at the two methods which have been outlined in the chapters above.
+%We will look at which approach has more promise and more viable solutions to the question, as well as where they both fall short of meeting the task. 
+%Finally there will be a discussion of the challenges associated with making these techniques scalable.
 
 
 \section{Conclusion}%
 \label{sec:conclusion}
 
-
-
-\subsection{Evolution of the most promising methodology}%
-\label{sub:evolution_of_the_most_promising_methodology}
-
-
-
-\subsection{Future innovations}%
-\label{sub:future_innovations}
-\clearpage
+%\subsection{Evolution of the most promising methodology}%
+%\label{sub:evolution_of_the_most_promising_methodology}
+%
+%\subsection{Future innovations}%
+%\label{sub:future_innovations}
 
 \bibliography{../Citations/bibtool}
 %\bibliography{bib_bibertool}
 \bibliographystyle{rsc}
 
+\end{multicols}
 \end{document}
 

@@ -1,0 +1,129 @@
+\subsection{Thermal Decomposition.}%
+\label{sub:thermal_decomposition_methane_decomp_revised_}
+\cite{CDM}
+In this 2001 paper the researchers looked at various \ce{Fe-M} catalysts for the production of \ce{H2} gas by means of the thermal decomposition of methane.
+The metals used for the \ce{M} part of the \ce{Fe-M} catalyst were \ce{Pd}, \ce{Mo} and \ce{Ni}.
+The catalysts were synthesised by adding a solution of \ce{(Fe(NO3)3.9H2O)} and the appropriate salt for \ce{M (Pd(NO3)2.xH2O}, \ce{Ni(NO3)2.6H2O)}, and \ce{(NH4)6Mo7O24)} to a slurry of $\gamma$-alumina and then increasing the pH of the solution with ammonia which caused the catalysts to precipitate out.
+The precipitate was washed with water and dried forming pellets around \SI{1.5 x 4.0}{\milli\meter}.
+The researchers flowed \SI{10}{\milli\liter\per\minute} of methane over \SI{1}{\gram} of catalyst and measured the percent volume of hydrogen produced using a gas chromatograph.
+
+The researchers compared the proportion of hydrogen evolved using a pure \ce{Fe} catalyst, a pure \ce{M} catalyst, a mixture of \ce{Fe} and \ce{M} catalyst and no catalyst for each of the \ce{Fe-M} catalysts.
+For Molybdenum a mixture of \SI{0.5}{\percent} \ce{Mo} and \SI{4.5}{\percent} \ce{Fe} produced the best evolution rate at the lowest temperature with a rate of ~\SI{85}{\percent} at \SI{700}{\celsius}, with the best pre-treatment being carburised rather than oxidised or reduced.
+The same is true for palladium where the mixed catalyst produced \SI{90}{\percent} hydrogen at ~\SI{870}{\celsius}.
+For \ce{Ni} the pure \ce{Ni} catalyst shows better results than the \ce{Ni-Fe} catalyst at temperatures up to ~\SI{650}{\celsius}, but then declines significantly at higher temperatures.
+Therefore, the catalyst of mixture \SI{0.5}{\percent} \ce{Ni} and \SI{4.5}{\percent} \ce{Fe} had its highest evolution rate at the lowest temperature with \SI{90}{\percent} evolution at ~\SI{800}{\celsius}.
+
+The researchers then compared the results from the mixed catalysts to each other as well as pure \ce{Fe} catalyst and no catalyst results.
+They found that there was a “substantial decrease in decomposition temperature” when using mixed catalysts compared with no catalysts.
+The researchers also found that whilst \ce{M=Pd} had a better hydrogen evolution rate at lower temperatures the results for all three binary catalysts were similar at \SIrange{700}{800}{\celsius} with all three catalysts producing around a \SI{90}{\percent} evolution rate, though \ce{Pd} does have at slightly higher maximum evolution at ~\SI{900}{\celsius}.
+
+An advantage of this method is that it presents a clear improvement over using simple \ce{Fe}, \ce{Ni}, \ce{Pd} and \ce{Mo} catalysts with substantially reduced decomposition temperatures and an improved evolution rate.
+This method also does not necessarily require the use of rare noble metals, although \ce{Pd} can be used with the \ce{Fe} it has little difference in evolution temperature with using \ce{Ni} or \ce{Mo}.
+A disadvantage is that the reaction has not been scaled up, with a catalyst bed of only \SI{3}{\gram} being used.
+Another issue is that the reaction uses methane, which is largely obtained via fossil fuels.
+Asubsection name final issue is that the catalyst can suffer from decay, although this is less problematic at higher amounts of catalyst.
+
+\subsection{Radical chain reactions}%
+\label{sub:radical_chain_reactions}
+
+Radical methane pyrolysis is a way of breaking a \ce{CH4} molecule into \ce{H2} and pure carbon.
+The initial step is the chemisorption of \ce{CH4}, onto the surface of the catalyst.
+
+\begin{align}
+	\intertext{The initiation and rate determining step of the radical break down is:}
+	\ce{CH4&-> ^.CH3 + H^.}
+	\intertext{Then a series of propagation steps take place with the general equation:}
+	\ce{^.CH_{n}&-> ^.CH_{n-1} + H^.}
+	\intertext{Until a termination step is reached:}
+	\ce{4H^.&-> 2H2}
+	\intertext{This gives the overall equation of:}
+	\ce{CH4&-> C + 2H2}
+.\end{align}
+
+This reaction mechanism gives rise to no waste gases such as \ce{CO2} but does has the issue of elemental carbon production which can lead to the degradation of the catalyst as carbon is deposited upon the catalyst surface.
+The reaction conditions for this mechanism follow Le Chatelier’s principal.
+As the reaction is endothermic a high temperature is needed, as there are more moles on the RHS, low pressure is needed.
+This is very expensive to maintain.
+The methane should also move at a low velocity as increases the contact efficiency between the methane and the catalyst, this results in a higher quantity of methane being adsorbed on the active site of the catalyst which means the catalyst will deteriorate slower.
+Various catalysts can be used from metals, molten salts/ metals, or carbon-based catalysts.
+The main catalysts in a metal catalysed reaction are nickel and iron, these are particularly useful as a partially filled \ce{3d} orbitals accept electrons from the \ce{CH} bonds destabilising their bond strength.
+These metals allow carbon diffusion through the crystalline structure.
+Table \ref{tab:catalystTable} shows a few key aspects of the catalysts and how they affect the operating conditions and overall reaction process.
+\end{multicols}
+\begin{table}[]
+	\centering
+	\caption{Catalytic efficacies, all relative values are compared to nickel.}
+	\label{tab:catalystTable}
+	\resizebox{\columnwidth}{!}{%
+		\begin{tabular}{l|l|l|l|l|l}
+		Catalyst & Rate & Toxicity & Cost & Durability & Operating temperature (\si{\celsius})\\
+		
+		Nickel & Equal & Equal & Equal & Equal & $500-700$ \\
+		Iron & Low & Low & Low & High & $700-1000$ \\
+		Molten & - & Low & High & High & $>1000$ \\
+		Carbon & Low & - & Low & High &  $800-1000$ \\
+		None & Very Low & - & - & - &  $1100-1200$
+		\end{tabular}
+	}
+\end{table}
+\begin{multicols}{2}
+
+Both supported and non-supported iron catalysts have been tested such as: \ce{[Fe(CO)5]},  \ce{[Fe(cp)2]}.
+However, these types of clusters can give result in unwanted gases, meaning the \ce{H2} must be separated from the gaseous mixture.
+A catalyst with a strong support increases the carbon dispersion and reducibility of the metal along with preventing sintering of metal particles.
+However, an excessively strong support may hamper the reducibility of metal oxides.
+A supported catalyst has a better performance as it balances the carbon dispersion resulting in a longer lasting catalyst while maintaining the reducibility of the metal species.
+There are three types of carbon catalyst highly ordered, less ordered, and disordered.
+Disordered carbon catalysts have three valence sites or no coordination sites these are known as high energy sites (HES).
+The more HES’s there are the faster the rate as these are thought to initiate the mechanism.
+More oxygenated catalysts have a higher activity but release \ce{COx}, this is because as \ce{COx} is produced new active sites are created on the surface of the catalyst.
+
+
+\subsection{Methane Pyrolysis}%
+\label{sub:methane_pyrolysis}
+This research is looking to use the \ce{H2} from methane decomposition to upcycle waste gases, such as \ce{CO2}, from industry:
+\begin{align}
+	\ce{CO2 + 3H2&-> \ce{CH3OH} + \ce{H2O}}
+.\end{align}
+
+For this, a steady stream of \ce{H2} gas is needed, which simply cannot be provided by water electrolysis due to the reasons outlined previously.
+Methane pyrolysis has an enthalpy of reaction ($\Delta_RH$) of \SI{+37.5}{\kilo\joule\per\mole}, while the electrolysis of water has a $\Delta_RH$ of \SI{+268}{\kilo\joule\per\mole}, making methane decomposition more thermodynamically favourable than the electrolysis of water.
+Methane pyrolysis occurs via a free radical dissociation reaction, involving one of a selection of catalysts available.
+The initial step is the chemisorption of methane onto the catalytic surface.
+
+
+This reaction mechanism gives rise to no waste gases such as \ce{CO2} but does has the issue of elemental carbon production which can lead to the degradation of the catalyst as carbon is deposited upon the catalyst surface (catalytic poisoning).
+
+Methane pyrolysis occurs via a free radical dissociation reaction, involving one of a selection of catalysts available.
+The initial step is the chemisorption of methane onto the catalytic surface.
+
+Equations 3-81
+
+This reaction mechanism gives rise to no waste gases such as \ce{CO2} but does has the issue of elemental carbon production which can lead to the degradation of the catalyst as carbon is deposited upon the catalyst surface (catalytic poisoning).
+
+
+Iron can also be used as a catalyst, its catalytic activity is lower than that of nickel and cobalt, however it is more resistant catalytic deactivation.
+This is because carbon has higher rate of diffusion in iron, meaning it does not deposit itself upon the active site of the catalyst.
+It also has the advantage of being able to operate at high temperatures \SIrange{700}{1000}{\celsius} 
+It is also cheaper and less toxic than nickel and cobalt catalysts.
+
+Both supported and non-supported iron catalysts have been tested such as: \ce{[Fe(CO)5]}, \ce{[Fe(cp)2]}.
+However, these types of clusters can give result in unwanted gases meaning the \ce{H2} has to be separated from the gaseous mixture.
+A catalyst was strong support increases the carbon dispersion and reducibility of the metal along with preventing sintering of metal particles.
+However, an excessively strong support may hamper the reducibility of metal oxides.
+A supported catalyst has a better performance as it balances the carbon dispersion resulting in a longer lasting catalyst while maintaining the reducibility of the metal species.
+
+Ni-Pd or \ce{Ni-Cu} can be used as a catalyst promoter; they have high lattice constants meaning they have a high capacity for waste carbon build up meaning they are longer living catalysts.
+While these alloys are longer lasting, they have a lower rate of reaction.
+The palladium or copper in the alloy serve as dopants, helping to initiate the hydrogen spill over effect.
+
+Metal catalysts have reduced performance as the reaction progresses as the active sites becomes encapsulated by elemental carbon, therefore carbon-based catalysts should be considered.
+These catalysts need higher operating temperatures have lower catalytic activity but are lower cost, have a high resistance to temperature and have a high stability, do not deposit toxic materials into the carbon by-product, tolerate impurities in the reaction such as sulphur and produce zero \ce{CO2} emissions as the catalyst doesn’t need to be regenerated.
+
+There are three types of carbon catalyst; highly ordered, less ordered, and disordered.
+Disordered carbon catalysts have free valence sites or coordination sites these are known as high energy sites (HES).
+The more \ce{HES}’s there are the faster the rate, as these are thought to initiate the mechanism.
+More oxygenated catalysts have a higher activity but release \ce{COx}.
+
+This is because as \ce{COx} is produced new active sites are created on the surface of the catalyst.
+The reaction mechanisms for many of these carbon catalysts are not known.

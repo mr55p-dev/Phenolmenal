@@ -18,9 +18,10 @@
 \mciteSetBstSublistLabelBeginEnd{\mcitemaxwidthsubitemform\space}
 {\relax}{\relax}
 
-\bibitem[Lei \emph{et~al.}(2019)Lei, Wang, Wang, and Liu]{lei2019}
-Q.~Lei, B.~Wang, P.~Wang and S.~Liu, \emph{Journal of Energy Chemistry}, 2019,
-  \textbf{38}, 162--169\relax
+\bibitem[Offer \emph{et~al.}(2010)Offer, Howey, Contestabile, Clague, and
+  Brandon]{Offer2010}
+G.~J. Offer, D.~Howey, M.~Contestabile, R.~Clague and N.~P. Brandon,
+  \emph{Energy Policy}, 2010, \textbf{38}, 24--29\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -28,20 +29,6 @@ Q.~Lei, B.~Wang, P.~Wang and S.~Liu, \emph{Journal of Energy Chemistry}, 2019,
 \bibitem[Hoffmann and Dorgan(2012)]{6278114}
 P.~Hoffmann and B.~Dorgan, in \emph{{Why Hydrogen? The Grand Picture}}, MIT
   Press, 2012, pp. 1--17\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Merrill(2006)]{merrill2006}
-M.~D. Merrill, \emph{Thesis}, 2006,  1--86\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Offer \emph{et~al.}(2010)Offer, Howey, Contestabile, Clague, and
-  Brandon]{Offer2010}
-G.~J. Offer, D.~Howey, M.~Contestabile, R.~Clague and N.~P. Brandon,
-  \emph{Energy Policy}, 2010, \textbf{38}, 24--29\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -71,6 +58,19 @@ W.~H. Chen, T.~C. Hsieh and T.~L. Jiang, \emph{Energy Conversion and
   Schl{\"{o}}gl, and Ruland]{SBN2020}
 N.~S{\'{a}}nchez‐Bastardo, R.~Schl{\"{o}}gl and H.~Ruland, \emph{Chemie
   ingenieur technik}, 2020, \textbf{92}, 1596--1609\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Merrill(2006)]{merrill2006}
+M.~D. Merrill, \emph{Thesis}, 2006,  1--86\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lei \emph{et~al.}(2019)Lei, Wang, Wang, and Liu]{Lei2019}
+Q.~Lei, B.~Wang, P.~Wang and S.~Liu, \emph{Journal of Energy Chemistry}, 2019,
+  \textbf{38}, 162--169\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

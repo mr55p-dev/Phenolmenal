@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  15 NOV 2020 23:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  22 NOV 2020 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -22,27 +22,56 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count178
+\float@exts=\toks17
+\float@box=\box45
+\@float@everytoks=\toks18
+\@floatcapt=\box46
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
  (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-03-06 L3 programming layer (loader) 
  (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count175
-\l__pdf_internal_box=\box45
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box47
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count176
-\calc@Bcount=\count177
-\calc@Adimen=\dimen135
-\calc@Bdimen=\dimen136
+\calc@Acount=\count180
+\calc@Bcount=\count181
+\calc@Adimen=\dimen143
+\calc@Bdimen=\dimen144
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count178
+\calc@Ccount=\count182
 \calc@Cskip=\skip51
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
@@ -53,61 +82,61 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01 AMS text
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen137
+\@emptytoks=\toks19
+\ex@=\dimen145
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen138
+\pmbraise@=\dimen146
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count179
+\inf@bad=\count183
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count180
-\leftroot@=\count181
+\uproot@=\count184
+\leftroot@=\count185
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count182
-\DOTSCASE@=\count183
+\classnum@=\count186
+\DOTSCASE@=\count187
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box46
-\strutbox@=\box47
-\big@size=\dimen139
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen147
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count184
-\c@MaxMatrixCols=\count185
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
 \dotsspace@=\muskip16
-\c@parentequation=\count186
-\dspbrk@lvl=\count187
-\tag@help=\toks16
-\row@=\count188
-\column@=\count189
-\maxfields@=\count190
-\andhelp@=\toks17
-\eqnshift@=\dimen140
-\alignsep@=\dimen141
-\tagshift@=\dimen142
-\tagwidth@=\dimen143
-\totwidth@=\dimen144
-\lineht@=\dimen145
-\@envbody=\toks18
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks20
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks21
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks22
 \multlinegap=\skip53
 \multlinetaggap=\skip54
-\mathdisplay@stack=\toks19
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/chemgreek/chemgreek.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2020-03-06 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count191
-\g__xparse_grabber_int=\count192
-\l__xparse_m_args_int=\count193
-\l__xparse_v_nesting_int=\count194
+\l__xparse_current_arg_int=\count195
+\g__xparse_grabber_int=\count196
+\l__xparse_m_args_int=\count197
+\l__xparse_v_nesting_int=\count198
 )
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
-\l__chemgreek_tmpa_int=\count195
-\g__chemgreek_tmpa_int=\count196
+\l__chemgreek_tmpa_int=\count199
+\g__chemgreek_tmpa_int=\count266
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
@@ -119,7 +148,7 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\l__mhchem_ce_distanceFromLastComma_int=\count197
+\l__mhchem_ce_distanceFromLastComma_int=\count267
 \__mhchem_arrow_extPgfLength_skip=\skip55
 \mhchem@minispace@tmp=\skip56
 \mhchem@minibackspace@tmp=\skip57
@@ -130,11 +159,11 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \mhchem@smallbondwidth=\skip62
 \mhchem@bondtmp@minussidebearingleft=\skip63
 \mhchem@bondtmp@minussidebearingright=\skip64
-\l__mhchem_option_version_int=\count198
-\mhchem@option@minusmathsidebearingleft=\dimen146
-\mhchem@option@minusmathsidebearingright=\dimen147
-\mhchem@option@minustextsidebearingleft=\dimen148
-\mhchem@option@minustextsidebearingright=\dimen149
+\l__mhchem_option_version_int=\count268
+\mhchem@option@minusmathsidebearingleft=\dimen154
+\mhchem@option@minusmathsidebearingright=\dimen155
+\mhchem@option@minustextsidebearingleft=\dimen156
+\mhchem@option@minustextsidebearingright=\dimen157
 ) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/03/22 3.42 The Babel package
  (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
@@ -143,11 +172,11 @@ File: switch.def 2020/03/22 3.42 Babel switching mechanism
 Language: english 2017/06/06 v3.3r English support from the babel system
  (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/03/22 3.42 Babel common definitions
-\babel@savecnt=\count199
-\U@D=\dimen150
+\babel@savecnt=\count269
+\U@D=\dimen158
  (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count266
+\bbl@dirlevel=\count270
 )
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
@@ -157,8 +186,8 @@ Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
@@ -167,10 +196,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 Package: rsc 2016/08/22 v31.f Support for RSC and Wiley journals
  (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
- (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 ) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -179,20 +205,20 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip65
 \bibsep=\skip66
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count267
+\c@NAT@ctr=\count271
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/achemso/natmove.sty
 Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
 )
 \rsc@bib@file=\write3
  (/usr/local/texlive/2020/texmf-dist/tex/latex/mciteplus/mciteplus.sty
 Package: mciteplus 2013/09/13 v1.2 enhanced mcite
-\@mcitetmptoksA=\toks23
-\@mcitetmpdima=\dimen151
-\@mcitetmpdimb=\dimen152
-\@mcitetmpcnta=\count268
-\@mcitetmpcntb=\count269
-\c@mcitebibitemcount=\count270
-\c@mcitesubitemcount=\count271
+\@mcitetmptoksA=\toks26
+\@mcitetmpdima=\dimen159
+\@mcitetmpdimb=\dimen160
+\@mcitetmpcnta=\count272
+\@mcitetmpcntb=\count273
+\c@mcitebibitemcount=\count274
+\c@mcitesubitemcount=\count275
 
 ** mciteplus: Detected natbib.sty. Invoking hooks.
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -213,67 +239,67 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count272
-\l_MT_multwidth_dim=\dimen153
+\g_MT_multlinerow_int=\count276
+\l_MT_multwidth_dim=\dimen161
 \origjot=\skip67
-\l_MT_shortvdotswithinadjustabove_dim=\dimen154
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
-\l_MT_above_intertext_sep=\dimen156
-\l_MT_below_intertext_sep=\dimen157
-\l_MT_above_shortintertext_sep=\dimen158
-\l_MT_below_shortintertext_sep=\dimen159
-\xmathstrut@box=\box48
-\xmathstrut@dim=\dimen160
+\l_MT_shortvdotswithinadjustabove_dim=\dimen162
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen163
+\l_MT_above_intertext_sep=\dimen164
+\l_MT_below_intertext_sep=\dimen165
+\l_MT_above_shortintertext_sep=\dimen166
+\l_MT_below_shortintertext_sep=\dimen167
+\xmathstrut@box=\box50
+\xmathstrut@dim=\dimen168
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
  (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen161
-\ar@mcellbox=\box49
-\extrarowheight=\dimen162
-\NC@list=\toks24
+\col@sep=\dimen169
+\ar@mcellbox=\box51
+\extrarowheight=\dimen170
+\NC@list=\toks27
 \extratabsurround=\skip68
 \backup@length=\skip69
-\ar@cellbox=\box50
+\ar@cellbox=\box52
 )
-\l__siunitx_tmp_box=\box51
-\l__siunitx_tmp_dim=\dimen163
-\l__siunitx_tmp_int=\count273
-\l__siunitx_number_mantissa_length_int=\count274
-\l__siunitx_number_uncert_length_int=\count275
-\l__siunitx_round_int=\count276
-\l__siunitx_process_decimal_int=\count277
-\l__siunitx_process_uncertainty_int=\count278
-\l__siunitx_process_fixed_int=\count279
-\l__siunitx_process_integer_min_int=\count280
-\l__siunitx_process_precision_int=\count281
-\l__siunitx_group_min_int=\count282
-\l__siunitx_angle_marker_box=\box52
-\l__siunitx_angle_unit_box=\box53
-\l__siunitx_angle_marker_dim=\dimen164
-\l__siunitx_angle_unit_dim=\dimen165
-\l__siunitx_unit_int=\count283
-\l__siunitx_unit_denominator_int=\count284
-\l__siunitx_unit_numerator_int=\count285
-\l__siunitx_unit_prefix_int=\count286
-\l__siunitx_unit_prefix_base_int=\count287
-\l__siunitx_unit_prefix_gram_int=\count288
-\l__siunitx_number_product_int=\count289
+\l__siunitx_tmp_box=\box53
+\l__siunitx_tmp_dim=\dimen171
+\l__siunitx_tmp_int=\count277
+\l__siunitx_number_mantissa_length_int=\count278
+\l__siunitx_number_uncert_length_int=\count279
+\l__siunitx_round_int=\count280
+\l__siunitx_process_decimal_int=\count281
+\l__siunitx_process_uncertainty_int=\count282
+\l__siunitx_process_fixed_int=\count283
+\l__siunitx_process_integer_min_int=\count284
+\l__siunitx_process_precision_int=\count285
+\l__siunitx_group_min_int=\count286
+\l__siunitx_angle_marker_box=\box54
+\l__siunitx_angle_unit_box=\box55
+\l__siunitx_angle_marker_dim=\dimen172
+\l__siunitx_angle_unit_dim=\dimen173
+\l__siunitx_unit_int=\count287
+\l__siunitx_unit_denominator_int=\count288
+\l__siunitx_unit_numerator_int=\count289
+\l__siunitx_unit_prefix_int=\count290
+\l__siunitx_unit_prefix_base_int=\count291
+\l__siunitx_unit_prefix_gram_int=\count292
+\l__siunitx_number_product_int=\count293
 \c__siunitx_one_fill_skip=\skip70
 \l__siunitx_table_unit_align_skip=\skip71
-\l__siunitx_table_exponent_dim=\dimen166
-\l__siunitx_table_integer_dim=\dimen167
-\l__siunitx_table_mantissa_dim=\dimen168
-\l__siunitx_table_marker_dim=\dimen169
-\l__siunitx_table_result_dim=\dimen170
-\l__siunitx_table_uncert_dim=\dimen171
-\l__siunitx_table_fill_pre_dim=\dimen172
-\l__siunitx_table_fill_post_dim=\dimen173
-\l__siunitx_table_fill_mid_dim=\dimen174
-\l__siunitx_table_pre_box=\box54
-\l__siunitx_table_post_box=\box55
-\l__siunitx_table_mantissa_box=\box56
-\l__siunitx_table_result_box=\box57
+\l__siunitx_table_exponent_dim=\dimen174
+\l__siunitx_table_integer_dim=\dimen175
+\l__siunitx_table_mantissa_dim=\dimen176
+\l__siunitx_table_marker_dim=\dimen177
+\l__siunitx_table_result_dim=\dimen178
+\l__siunitx_table_uncert_dim=\dimen179
+\l__siunitx_table_fill_pre_dim=\dimen180
+\l__siunitx_table_fill_post_dim=\dimen181
+\l__siunitx_table_fill_mid_dim=\dimen182
+\l__siunitx_table_pre_box=\box56
+\l__siunitx_table_post_box=\box57
+\l__siunitx_table_mantissa_box=\box58
+\l__siunitx_table_result_box=\box59
 \l__siunitx_table_number_align_skip=\skip72
 \l__siunitx_table_text_align_skip=\skip73
  (/usr/local/texlive/2020/texmf-dist/tex/latex/translator/translator.sty
@@ -293,8 +319,77 @@ LaTeX Warning: Command \underline  has changed.
 Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
  (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count290
-)) (/usr/local/texlive/2020/texmf-dist/tex/latex/import/import.sty
+\etb@tempcnta=\count294
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count295
+\mult@box=\box60
+\multicol@leftmargin=\dimen183
+\c@unbalance=\count296
+\c@collectmore=\count297
+\doublecol@number=\count298
+\multicoltolerance=\count299
+\multicolpretolerance=\count300
+\full@width=\dimen184
+\page@free=\dimen185
+\premulticols=\dimen186
+\postmulticols=\dimen187
+\multicolsep=\skip74
+\multicolbaselineskip=\skip75
+\partial@page=\box61
+\last@line=\box62
+\maxbalancingoverflow=\dimen188
+\mult@rightbox=\box63
+\mult@grightbox=\box64
+\mult@gfirstbox=\box65
+\mult@firstbox=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\c@minrows=\count301
+\c@columnbadness=\count302
+\c@finalcolumnbadness=\count303
+\last@try=\dimen189
+\multicolovershoot=\dimen190
+\multicolundershoot=\dimen191
+\mult@nat@firstbox=\box104
+\colbreak@box=\box105
+\mc@col@check@num=\count304
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/01/22  v 6.0
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
@@ -310,8 +405,6 @@ Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
  (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -329,20 +422,20 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen175
-\Gin@req@width=\dimen176
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
 )
-\AM@pagewidth=\dimen177
-\AM@pageheight=\dimen178
+\AM@pagewidth=\dimen194
+\AM@pageheight=\dimen195
  (/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box58
-\AM@global@opts=\toks25
-\AM@pagecnt=\count291
-\AM@toc@title=\toks26
-\c@AM@survey=\count292
-\AM@templatesizebox=\box59
+\AM@pagebox=\box106
+\AM@global@opts=\toks28
+\AM@pagecnt=\count305
+\AM@toc@title=\toks29
+\c@AM@survey=\count306
+\AM@templatesizebox=\box107
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
 Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
  (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
@@ -350,36 +443,71 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )) (./Document.aux)
 \openout1 = `Document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
-Package chemgreek Info: Activating mapping `default' on line 32.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=591.5302pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+Package chemgreek Info: Activating mapping `default' on line 45.
+
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count293
-\scratchdimen=\dimen179
-\scratchbox=\box60
-\nofMPsegments=\count294
-\nofMParguments=\count295
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count296
-\MPscratchDim=\dimen180
-\MPnumerator=\count297
-\makeMPintoPDFobject=\count298
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count307
+\scratchdimen=\dimen196
+\scratchbox=\box108
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen197
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -393,7 +521,7 @@ Dictionary: translator-basic-dictionary, Language: English
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-\AtBeginShipoutBox=\box61
+\AtBeginShipoutBox=\box109
  (/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
@@ -401,11 +529,11 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./Document.toc)
@@ -414,36 +542,118 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Introduction.tex) [3
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] (./Traditional Methods.tex
-Overfull \hbox (17.77252pt too wide) in paragraph at lines 4--6
-\T1/cmr/m/n/10 The steam methane ref-or-ma-tion re-ac-tion is an ex-tremely in-ex-pen-sive and widespread
- []
+] (./Chapters/Introduction.tex) (./Chapters/Traditional Methods.tex [3]
 
-) (./Methane Methods.tex [4
+Package natbib Warning: Citation `Peng2020' on page 4 undefined on input line 40.
 
-] [5]) [6]
-Overfull \hbox (2.76508pt too wide) in paragraph at lines 134--134
-[]\T1/cmr/m/it/12 Thermo-photo cat-alytic wa-ter split-ting re-ac-tions us-ing methanol
- []
 
-[7] (./Document.bbl) [8
+LaTeX Warning: Reference `eq:UC_hads,Leonard2012' on page 4 undefined on input line 45.
 
-] (./Document.aux) ) 
+) (./Chapters/Methane Methods.tex
+
+Package natbib Warning: Citation `Ashok' on page 4 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Ashok' on page 4 undefined on input line 5.
+
+[4]
+
+Package natbib Warning: Citation `Ashok' on page 5 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Ashok' on page 5 undefined on input line 12.
+
+<Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png, id=28, 601.24625pt x 412.54124pt>
+File: Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png Graphic file (type png)
+<use Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png>
+Package pdftex.def Info: Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png  used on input line 16.
+(pdftex.def)             Requested size: 193.47578pt x 132.7524pt.
+<Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png, id=30, 551.05875pt x 424.58624pt>
+File: Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png Graphic file (type png)
+<use Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png>
+Package pdftex.def Info: Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png  used on input line 23.
+(pdftex.def)             Requested size: 193.47578pt x 149.07387pt.
+[5 <./Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png> <./Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png>]
+<Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png, id=38, 1037.8775pt x 583.17876pt>
+File: Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png Graphic file (type png)
+<use Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>
+Package pdftex.def Info: Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png  used on input line 97.
+(pdftex.def)             Requested size: 193.47578pt x 108.71394pt.
+
+
+Package natbib Warning: Citation `Ashok' on page 6 undefined on input line 98.
+
+
+Package natbib Warning: Citation `Ashok' on page 6 undefined on input line 98.
+
+) (./Chapters/WSMethods.tex
+
+Package natbib Warning: Citation `Zeng2010' on page 6 undefined on input line 4.
+
+[6 <./Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>]
+<Chapters/amphoteric_cell.png, id=43, 219.82124pt x 135.50626pt>
+File: Chapters/amphoteric_cell.png Graphic file (type png)
+<use Chapters/amphoteric_cell.png>
+Package pdftex.def Info: Chapters/amphoteric_cell.png  used on input line 8.
+(pdftex.def)             Requested size: 193.47578pt x 119.2686pt.
+
+
+Package natbib Warning: Citation `Schiller2019' on page 7 undefined on input line 41.
+
+
+Package natbib Warning: Citation `Schiller2019' on page 7 undefined on input line 43.
+
+
+Package natbib Warning: Citation `Schiller2019' on page 7 undefined on input line 44.
+
+
+Package natbib Warning: Citation `Laurencin' on page 7 undefined on input line 44.
+
+<Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png, id=44, 946.53625pt x 414.54875pt>
+File: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png Graphic file (type png)
+<use Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png>
+Package pdftex.def Info: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png  used on input line 47.
+(pdftex.def)             Requested size: 193.47578pt x 84.73001pt.
+
+Package natbib Warning: Citation `Schiller2019' on page 7 undefined on input line 51.
+
+[7 <./Chapters/amphoteric_cell.png>]
+
+LaTeX Warning: Reference `eq:SE_air_electrdoe' on page 8 undefined on input line 54.
+
+
+Package natbib Warning: Citation `Schiller2019' on page 8 undefined on input line 54.
+
+
+Package natbib Warning: Citation `Lemmon2017' on page 8 undefined on input line 61.
+
+
+Package natbib Warning: Citation `Schiller2019' on page 8 undefined on input line 71.
+
+) (./Document.bbl [8 <./Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png>])
+
+Package natbib Warning: There were undefined citations.
+
+[9] (./Document.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10324 strings out of 480608
- 194776 string characters out of 5903630
- 469721 words of memory out of 5000000
- 26010 multiletter control sequences out of 15000+600000
- 555086 words of font info for 86 fonts, out of 8000000 for 9000
+ 11018 strings out of 480608
+ 205935 string characters out of 5903630
+ 496734 words of memory out of 5000000
+ 26680 multiletter control sequences out of 15000+600000
+ 554391 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,19n,58p,812b,886s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Document.pdf (8 pages, 250577 bytes).
+ 45i,20n,58p,812b,1039s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Document.pdf (9 pages, 1991456 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
