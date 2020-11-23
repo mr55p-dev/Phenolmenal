@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  22 NOV 2020 22:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  23 NOV 2020 00:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,32 +358,51 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen183
+\captionmargin@=\dimen184
+\captionwidth=\dimen185
+\caption@tempdima=\dimen186
+\caption@indent=\dimen187
+\caption@parindent=\dimen188
+\caption@hangindent=\dimen189
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count294
+\etb@tempcnta=\count296
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count295
+\c@tracingmulticols=\count297
 \mult@box=\box60
-\multicol@leftmargin=\dimen183
-\c@unbalance=\count296
-\c@collectmore=\count297
-\doublecol@number=\count298
-\multicoltolerance=\count299
-\multicolpretolerance=\count300
-\full@width=\dimen184
-\page@free=\dimen185
-\premulticols=\dimen186
-\postmulticols=\dimen187
+\multicol@leftmargin=\dimen190
+\c@unbalance=\count298
+\c@collectmore=\count299
+\doublecol@number=\count300
+\multicoltolerance=\count301
+\multicolpretolerance=\count302
+\full@width=\dimen191
+\page@free=\dimen192
+\premulticols=\dimen193
+\postmulticols=\dimen194
 \multicolsep=\skip74
 \multicolbaselineskip=\skip75
 \partial@page=\box61
 \last@line=\box62
-\maxbalancingoverflow=\dimen188
+\maxbalancingoverflow=\dimen195
 \mult@rightbox=\box63
 \mult@grightbox=\box64
 \mult@gfirstbox=\box65
@@ -425,15 +444,15 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box101
 \@tempa=\box102
 \@tempa=\box103
-\c@minrows=\count301
-\c@columnbadness=\count302
-\c@finalcolumnbadness=\count303
-\last@try=\dimen189
-\multicolovershoot=\dimen190
-\multicolundershoot=\dimen191
+\c@minrows=\count303
+\c@columnbadness=\count304
+\c@finalcolumnbadness=\count305
+\last@try=\dimen196
+\multicolovershoot=\dimen197
+\multicolundershoot=\dimen198
 \mult@nat@firstbox=\box104
 \colbreak@box=\box105
-\mc@col@check@num=\count304
+\mc@col@check@num=\count306
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/01/22  v 6.0
@@ -478,20 +497,20 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen192
-\Gin@req@width=\dimen193
+\Gin@req@height=\dimen199
+\Gin@req@width=\dimen256
 )
-\AM@pagewidth=\dimen194
-\AM@pageheight=\dimen195
+\AM@pagewidth=\dimen257
+\AM@pageheight=\dimen258
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box106
 \AM@global@opts=\toks28
-\AM@pagecnt=\count305
+\AM@pagecnt=\count307
 \AM@toc@title=\toks29
-\c@AM@survey=\count306
+\c@AM@survey=\count308
 \AM@templatesizebox=\box107
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
@@ -504,20 +523,20 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (./Document.aux)
 \openout1 = `Document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -554,20 +573,20 @@ LaTeX Font Info:    ... okay on input line 45.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package chemgreek Info: Activating mapping `default' on line 45.
+Package chemgreek Info: Activating mapping `default' on line 50.
 
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
-\scratchdimen=\dimen196
+\scratchcounter=\count309
+\scratchdimen=\dimen259
 \scratchbox=\box108
-\nofMPsegments=\count308
-\nofMParguments=\count309
+\nofMPsegments=\count310
+\nofMParguments=\count311
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count310
-\MPscratchDim=\dimen197
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen260
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
 \everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -588,6 +607,8 @@ Dictionary: translator-basic-dictionary, Language: English
 (/usr/local/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box109
  (/usr/local/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -597,13 +618,13 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -612,45 +633,62 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write4
 \openout4 = `Document.toc'.
 
- (./Chapters/Abstract.tex) (./Chapters/Introduction.tex)
-(./Chapters/Traditional Methods.tex [1
+ [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]) (.
-/Chapters/Methane Methods.tex
-<Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png, id=22, 601.24625pt x 412.54
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Chapters/Abstract.tex) (./Chapters/Introduction.tex)
+(./Chapters/Traditional Methods.tex [2
+
+] [3]) (./Chapters/Methane Methods.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+[]$[]$ \T1/cmr/m/n/10 is pro-duced from a re-ac-tion of
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 12--15
+[][][][][][][][][][][] [] [] [][][][]$ \T1/cmr/m/n/10 and $[][][][][][][][][][]
+[]$ to make
+ []
+
+<Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png, id=25, 601.24625pt x 412.54
 124pt>
 File: Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png  use
-d on input line 22.
+d on input line 25.
 (pdftex.def)             Requested size: 193.47578pt x 132.7524pt.
-<Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png, id=24, 551.05875pt x 424.58
+<Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png, id=27, 551.05875pt x 424.58
 624pt>
 File: Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png  use
-d on input line 29.
+d on input line 32.
 (pdftex.def)             Requested size: 193.47578pt x 149.07387pt.
- [3 <./Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png>] [4 <./Chapters/0ed19
-cac-2cb8-11eb-895f-8c8590753a48.png>]
-<Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png, id=35, 1037.8775pt x 583.17
+[4 <./Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]\T1/cmr/m/n/10 Operating
+ []
+
+[5 <./Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png>]
+<Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png, id=40, 1037.8775pt x 583.17
 876pt>
 File: Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png  use
-d on input line 114.
+d on input line 117.
 (pdftex.def)             Requested size: 193.47578pt x 108.71394pt.
-) (./Chapters/WSMethods.tex
-<Chapters/amphoteric_cell.png, id=36, 219.82124pt x 135.50626pt>
+)
+(./Chapters/WSMethods.tex
+<Chapters/amphoteric_cell.png, id=41, 219.82124pt x 135.50626pt>
 File: Chapters/amphoteric_cell.png Graphic file (type png)
 <use Chapters/amphoteric_cell.png>
 Package pdftex.def Info: Chapters/amphoteric_cell.png  used on input line 8.
 (pdftex.def)             Requested size: 193.47578pt x 119.2686pt.
- [5 <./Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>]
-<Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png, id=41, 946.53625pt x 414.54
+ [6 <./Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>]
+<Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png, id=46, 946.53625pt x 414.54
 875pt>
 File: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png Graphic file (type png)
 
@@ -658,9 +696,19 @@ File: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png Graphic file (type png)
 Package pdftex.def Info: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png  use
 d on input line 47.
 (pdftex.def)             Requested size: 193.47578pt x 84.73001pt.
- [6 <./Chapters/amphoteric_cell.png> <./Chapters/cf89a71a-2c53-11eb-895f-8c8590
-753a48.png>]) (./Chapters/Conclusion.tex)
-[7] (./Document.bbl
+ [7 <./Chapters/amphoteric_cell.png> <./Chapters/cf89a71a-2c53-11eb-895f-8c8590
+753a48.png>]) (./Chapters/Conclusion.tex) (./Document.bbl [8]
+
+! Package mciteplus Error: Entry Status for cite key `Probstein1982' under trac
+king ID `main' is undefined, treating it as a head entry.
+
+See the mciteplus package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \bibitem[Probstein(1982)]{Probstein1982}
+                                             
+? 
 ! Undefined control sequence.
 l.138 \emph{{About LNG}}, \url
                               {http://www.lngamerica.com/lng-facts.html}\relax
@@ -670,19 +718,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--143
 []\T1/cmr/m/it/10 About LNG\T1/cmr/m/n/10 , http://www.lngamerica.com/lng-
  []
 
-) [8] (./Document.aux)
+) [9] (./Document.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 11053 strings out of 480608
- 206596 string characters out of 5903630
- 506218 words of memory out of 5000000
- 26709 multiletter control sequences out of 15000+600000
- 554391 words of font info for 86 fonts, out of 8000000 for 9000
+ 12159 strings out of 480608
+ 226684 string characters out of 5903630
+ 515936 words of memory out of 5000000
+ 27801 multiletter control sequences out of 15000+600000
+ 557940 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,20n,58p,812b,1041s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,20n,72p,812b,1251s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -694,16 +742,18 @@ l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texliv
-e/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/
-2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/20
-20/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020
-/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/t
-exmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/tex
-mf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Document.pdf (8 pages, 2000417 bytes).
+e/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2020/texmf
+-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texmf-d
+ist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Document.pdf (9 pages, 2011363 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 117 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
