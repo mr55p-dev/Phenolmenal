@@ -8,45 +8,45 @@ Warning--I didn't find a database entry for ""
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 rsc 2016/08/22 v3.1f
-You've used 18 entries,
+You've used 17 entries,
             3113 wiz_defined-function locations,
-            816 strings with 9447 characters,
-and the built_in function-call counts, 6303 in all, are:
-= -- 528
-> -- 370
-< -- 13
-+ -- 117
-- -- 99
-* -- 601
-:= -- 914
-add.period$ -- 17
-call.type$ -- 18
+            806 strings with 9125 characters,
+and the built_in function-call counts, 5915 in all, are:
+= -- 490
+> -- 361
+< -- 11
++ -- 114
+- -- 97
+* -- 579
+:= -- 865
+add.period$ -- 16
+call.type$ -- 17
 change.case$ -- 4
-chr.to.int$ -- 19
-cite$ -- 19
-duplicate$ -- 283
-empty$ -- 449
-format.name$ -- 124
-if$ -- 1282
+chr.to.int$ -- 18
+cite$ -- 18
+duplicate$ -- 259
+empty$ -- 413
+format.name$ -- 121
+if$ -- 1190
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 123
-num.names$ -- 48
-pop$ -- 78
+newline$ -- 117
+num.names$ -- 45
+pop$ -- 72
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 167
+skip$ -- 147
 stack$ -- 0
-substring$ -- 406
-swap$ -- 143
-text.length$ -- 37
+substring$ -- 374
+swap$ -- 133
+text.length$ -- 34
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 114
+type$ -- 110
 warning$ -- 0
-while$ -- 67
+while$ -- 62
 width$ -- 0
-write$ -- 259
+write$ -- 244
 (There was 1 warning)

@@ -20,7 +20,7 @@
 \subsectionfont{\normalfont\itshape}
 
 \usepackage{caption}
-\captionsetup[figure]{font=small}
+\captionsetup{font=footnotesize}
 
 \edef\restoreparindent{\parindent=\the\parindent\relax}
 \usepackage{parskip}
@@ -67,17 +67,28 @@
 \label{sub:Traditional_Methods}
 \input{./Chapters/Traditional Methods.tex}
 
-\section{\ce{CH4} methods}%
+\section{Methane decomposition reactions}%
 \label{sub:ch4_methods}
 \input{./Chapters/Methane Methods.tex}
 
-\section{\ce{H2O} methods}%
+\section{Water electrolytic techniques}%
 \label{sub:h2o_methods}
 \input{./Chapters/WSMethods.tex}
 
 \section{Conclusion}%
 \label{sec:conclusion}
 \input{./Chapters/Conclusion.tex}
+
+\section{Acronyms used}%
+\label{sec:acronyms_used}
+
+\begin{description}
+	\item[SMR] Steam methane reformation.
+	\item[SOEC] Solid-oxide electrolytic cell.
+	\item[RMP] Radical Methane Pyrolysis.
+	\item[GHG] Greenhouse Gas.
+	\item[\ce{HAp}] hydroxyapatite. 
+\end{description}
 
 %\bibliography{../Citations/bibtool}
 \bibliography{bibtool}

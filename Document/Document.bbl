@@ -1,7 +1,7 @@
 \providecommand*{\mcitethebibliography}{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
 {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{18}
+\begin{mcitethebibliography}{17}
 \providecommand*{\natexlab}[1]{#1}
 \providecommand*{\mciteSetBstSublistMode}[1]{}
 \providecommand*{\mciteSetBstMaxWidthForm}[2]{}
@@ -36,13 +36,6 @@ P.~Hoffmann and B.~Dorgan, in \emph{{Why Hydrogen? The Grand Picture}}, MIT
 \bibitem[Saxena \emph{et~al.}(2011)Saxena, Kumar, and Drozd]{Saxena2011}
 S.~Saxena, S.~Kumar and V.~Drozd, \emph{International Journal of Hydrogen
   Energy}, 2011, \textbf{36}, 4366--4369\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Probstein(1982)]{Probstein1982}
-R.~F. Probstein, \emph{{Synthetic fuels}}, McGraw-Hill, New York, 1982, pp.
-  394--400\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

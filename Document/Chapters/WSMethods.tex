@@ -1,7 +1,7 @@
 \subsection{Amphoteric cell}%
 \label{sub:some_kind_of_splitting_method_}
 
-An existing H2O electrolysis method which uses an electrolytic cell under alkaline conditions \cite{Zeng2010}, is adapted by adding a membrane and an acidic electrolyte \cite{Lei2019}.
+An existing \ce{H2O} electrolysis method which uses an electrolytic cell under alkaline conditions \cite{Zeng2010}, is adapted by adding a membrane and an acidic electrolyte \cite{Lei2019}.
 
 \begin{figure}[H]
 	\centering
@@ -29,10 +29,10 @@ Therefore, the concentration of \ce{H+} and \ce{OH-} in the respective electroly
 This results in a lower potential difference for the electrolysis of \ce{H2O}.
 Since the experiment took place at a constant current and over a set time, this means that energy consumption was also lower.
 
-So, by using an ion-exchange membrane to separate acidic and alkaline electrolytes, the energy consumption required for the electrolysis of \ce{H2O} was \SI{30}{\percent} less compared to conventional alkaline electrolysis.
+So, by using an ion-exchange membrane to separate acidic and alkaline electrolytes, the energy consumption required for the electrolysis of \ce{H2O} was \SI{30}{\percent} less compared to conventional alkaline electrolysis\cite{Lei2019}.
 If this magnitude of energy efficiency could be achieved on an industrial scale using renewable energy, it would provide a method of producing \ce{H2} from \ce{H2O} without the use of fossil fuels and potentially transform the way we store and release energy.
 
-There is also scope for increased energy efficiency, as increasing temperature led to a lower potential difference for a given \ce{H2} production rate.
+There is also scope for increased energy efficiency, as increasing the temperature led to a lower potential difference for a given \ce{H2} production rate.
 This means further research could be undertaken to find the most energy efficient compromise between temperature and potential difference.
 Further research could also be undertaken into the composition of the electrodes, and whether there is an alternative combination that is just as effective, but doesn’t require expensive \ce{Pt}.
 
@@ -40,7 +40,7 @@ Further research could also be undertaken into the composition of the electrodes
 \label{sub:solar_powered_steam_electrolysis}
 \cite{Schiller2019}
 
-In this section we discuss steam electrolysis and will look at a case study from Schiller, Lang and Szabo et al\cite{Schiller2019}.
+In this section we discuss steam electrolysis and will look at a case study from G. Schiller, M. Lang, P. Szabo et al.\cite{Schiller2019}
 High temperature steam electrolysis operates in the temperature range \SIrange{700}{900}{\celsius}\cite{Schiller2019} and can occur in a solid-oxide electrolysis cell (SOEC); a high operating temperature cell with similar properties to a solid oxide fuel cell, composed of ceramic\cite{Laurencin}.
 \begin{figure}[H]
 	\centering
@@ -58,27 +58,26 @@ Splitting water in this reaction occurs at two sites; the fuel electrode proceed
 	\ce{O^2- &-> 1/2O2 + 2e-}\label{eq:SE_air_electrode}
 .\end{align}
 
-From a thermodynamic perspective the enthalpy required to split water is reduced, as the total enthalpy $\Delta_{r}H$ is significantly lowered by removing the need to supply the enthalpy of vaporisation $\Delta_{\text{vap}}H$, approximately \SI{40.65}{\kilo\joule\per\mole}\cite{Lemmon2017}.
+From a thermodynamic perspective the enthalpy required to split water is reduced, as the total enthalpy $\Delta_{r}H$ is lowered significantly by removing the need to supply the enthalpy of vaporisation $\Delta_{\text{vap}}H$, approximately \SI{40.65}{\kilo\joule\per\mole}\cite{Lemmon2017}.
 SOECs operating a steam electrolysis reaction have the potential to significantly offset electrical load; the method presented in the paper uses solar energy to superheat water in a steam generator; this is pressurised in an accumulator and fed into the SOEC. 
 
 There are several limitations to this research, while it addresses the possibility of superheating water using solar energy, the experimental set-up uses a solar simulator which is obviously an ideal condition, making this not necessarily geographically suitable.
-The SOEC used by the team was a laboratory scale device and could not handle steam mass flow exceeding \SI{0.5}{\kilo\gram\per\hour}, making validating this experiment on a large scale difficult; is solar energy suitable for heating water that can feed a large bank of SOECs, as when lost are kept together they are more thermally efficient.
-
+The SOEC used by the team was a laboratory scale device and could not handle steam mass flow exceeding \SI{0.5}{\kilo\gram\per\hour}, making validating this experiment on a large scale difficult; solar energy may not be reliable enough to heat steam to feed a large bank of SOECs, as when multiple units are stacked they are more thermally efficient.
 
 \subsection{Discussion of water-splitting methods}%
 \label{sub:discussion_of_water_splitting_methods}
+Acidic/alkaline amphoteric \ce{H2O} electrolytic cells operate below \SI{100}{\celsius}\cite{Lei2019}, whereas SOEC operate between \SIrange{700}{1000}{\celsius}\cite{Schiller2019}.
+This higher temperature results in faster reactions and a decrease in the Gibbs free enthalpy for \ce{H2O} electrolysis.
+This results in SOECs requiring less energy per unit volume of \ce{H2}.
+Additionally, because a large part of the energy required for heating can be provided by solar thermal energy when using SOECs, the electrical energy is further lowered.
+As energy consumption is one of the major problems preventing the uptake of new \ce{H2} productions, this is a clear advantage.
 
-Acidic/alkaline amphoteric \ce{H2O} electrolytic cells operate below \SI{100}{\celsius}\cite{Lei2019}, whereas solid oxide electrolytic cells (SOEC) operate between \SIrange{700}{1000}{\celsius}\cite{Schiller2019}.
-This higher temperature results in faster reactions and a decrease in the Gibbs free enthalpy for \ce{H2O} electrolysis. This results in SOSE requiring less energy per unit volume of \ce{H2}. Additionally, because a large part of the energy required for heating can be provided by solar thermal energy when using SOSE cells, the electrical energy is further lowered. As energy consumption is one of the major problems preventing the uptake of new \ce{H2} productions, this is a clear advantage.
-
-Another advantage of the SOSE is that it uses abundant metals in the electrodes whereas the acidic/alkaline amphoteric cell uses expensive platinum.
+Another advantage of the SOECs is that it uses abundant metals in the electrodes whereas the acidic/alkaline amphoteric cell uses expensive platinum.
 Since one of the issues facing new methods of \ce{H2} production is cost this is an important consideration.
 
-Reliability and ease of maintenance are important factors when considering a new process, and SOSE is complex.
+Reliability and ease of maintenance are important factors when considering a new process, and SOECs are complex.
 It consists of five main components and combines electrical and thermal solar energy sources.
-In contrast, the acid/alkaline electrolytic cell is an adaption of an existing technique and is far more simple, with only one main component.
+In contrast, the acid/alkaline electrolytic cell is an adaptation of an existing technique and is far more simple, with only one main component.
 
-With further refinement SOSE looks to be the most promising method of the two reviewed; it takes the biggest steps in resolving numerous issues facing the use of water electrolysis as a means of producing hydrogen on a large scale.
-
-%Another disadvantage of the acidic/alkaline electrolytic cell is that it depends on an expensive pt electrode, whereas the SOEC uses abundant \ce{Ni}, \ce{La}, \ce{Sr}, \ce{Co}, \ce{Fe}, \ce{Zr} and \ce{Y}.
+With further refinement SOECs looks to be the most promising method of the two reviewed; it takes the biggest steps in resolving numerous issues facing the use of water electrolysis as a means of producing hydrogen on a large scale.
 
