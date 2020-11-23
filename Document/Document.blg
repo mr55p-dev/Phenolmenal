@@ -1,24 +1,33 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Document.aux
+Case mismatch error between cite keys sbn2020 and SBN2020
+---line 69 of file Document.aux
+ : \citation{sbn2020
+ :                  }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys sbn2020 and SBN2020
+---line 70 of file Document.aux
+ : \citation{sbn2020
+ :                  }
+I'm skipping whatever remains of this command
 The style file: rsc.bst
 Database file #1: rsc-Document.bib
 Database file #2: bibtool.bib
-Warning--I didn't find a database entry for ""
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 rsc 2016/08/22 v3.1f
 You've used 17 entries,
             3113 wiz_defined-function locations,
-            806 strings with 9125 characters,
-and the built_in function-call counts, 5915 in all, are:
+            806 strings with 9055 characters,
+and the built_in function-call counts, 5811 in all, are:
 = -- 490
-> -- 361
+> -- 337
 < -- 11
-+ -- 114
-- -- 97
-* -- 579
-:= -- 865
++ -- 106
+- -- 89
+* -- 563
+:= -- 841
 add.period$ -- 16
 call.type$ -- 17
 change.case$ -- 4
@@ -26,8 +35,8 @@ chr.to.int$ -- 18
 cite$ -- 18
 duplicate$ -- 259
 empty$ -- 413
-format.name$ -- 121
-if$ -- 1190
+format.name$ -- 113
+if$ -- 1174
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
@@ -49,4 +58,4 @@ warning$ -- 0
 while$ -- 62
 width$ -- 0
 write$ -- 244
-(There was 1 warning)
+(There were 2 error messages)

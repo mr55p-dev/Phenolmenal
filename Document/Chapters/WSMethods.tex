@@ -34,13 +34,11 @@ If this magnitude of energy efficiency could be achieved on an industrial scale 
 
 There is also scope for increased energy efficiency, as increasing the temperature led to a lower potential difference for a given \ce{H2} production rate.
 This means further research could be undertaken to find the most energy efficient compromise between temperature and potential difference.
-Further research could also be undertaken into the composition of the electrodes, and whether there is an alternative combination that is just as effective, but doesn’t require expensive \ce{Pt}.
+Further research could also be undertaken into the composition of the electrodes, and whether there is an alternative combination that is just as effective, but does not require expensive \ce{Pt}.
 
 \subsection{Solar powered steam electrolysis}%
 \label{sub:solar_powered_steam_electrolysis}
-\cite{Schiller2019}
-
-In this section we discuss steam electrolysis and will look at a case study from G. Schiller, M. Lang, P. Szabo et al.\cite{Schiller2019}
+In this section we discuss steam electrolysis and will look at a case study from G. Schiller et al.\cite{Schiller2019}
 High temperature steam electrolysis operates in the temperature range \SIrange{700}{900}{\celsius}\cite{Schiller2019} and can occur in a solid-oxide electrolysis cell (SOEC); a high operating temperature cell with similar properties to a solid oxide fuel cell, composed of ceramic\cite{Laurencin}.
 \begin{figure}[H]
 	\centering
@@ -48,7 +46,7 @@ High temperature steam electrolysis operates in the temperature range \SIrange{7
 	\caption{The schematic for a single cell of a solid-oxide fuel cell.}
 	\label{fig:SE_cell}
 \end{figure}
-At these temperatures the reaction can proceed faster than at the lower temperatures (\SI{>100}{\celsius}), resulting in a higher electrical efficiency\cite{Schiller2019}.
+At these temperatures the reaction can proceed faster than at the lower temperatures (\SI{<100}{\celsius}), resulting in a higher electrical efficiency\cite{Schiller2019}.
 Overpotential is a major issue with current methods of water electrolysis so overcoming this in systems operating at scale is an important step.
 
 Splitting water in this reaction occurs at two sites; the fuel electrode proceeds via reaction \eqref{eq:SE_fuel_electrode} and the air electrode via \eqref{eq:SE_air_electrode}.\cite{Schiller2019}
@@ -59,14 +57,15 @@ Splitting water in this reaction occurs at two sites; the fuel electrode proceed
 .\end{align}
 
 From a thermodynamic perspective the enthalpy required to split water is reduced, as the total enthalpy $\Delta_{r}H$ is lowered significantly by removing the need to supply the enthalpy of vaporisation $\Delta_{\text{vap}}H$, approximately \SI{40.65}{\kilo\joule\per\mole}\cite{Lemmon2017}.
-SOECs operating a steam electrolysis reaction have the potential to significantly offset electrical load; the method presented in the paper uses solar energy to superheat water in a steam generator; this is pressurised in an accumulator and fed into the SOEC. 
+SOECs operating a steam electrolysis reaction have the potential to significantly offset electrical load; the method presented in the paper uses solar energy to superheat water in a steam generator, this is pressurised in an accumulator and fed into the SOEC. 
 
 There are several limitations to this research, while it addresses the possibility of superheating water using solar energy, the experimental set-up uses a solar simulator which is obviously an ideal condition, making this not necessarily geographically suitable.
-The SOEC used by the team was a laboratory scale device and could not handle steam mass flow exceeding \SI{0.5}{\kilo\gram\per\hour}, making validating this experiment on a large scale difficult; solar energy may not be reliable enough to heat steam to feed a large bank of SOECs, as when multiple units are stacked they are more thermally efficient.
+The SOEC used by the team was a laboratory scale device and could not handle steam mass flow exceeding \SI{0.5}{\kilo\gram\per\hour}, making validating this experiment on a large scale difficult. 
+Solar energy may not be reliable enough to heat steam to feed a large bank of SOECs, as when multiple units are stacked they are more thermally efficient.
 
 \subsection{Discussion of water-splitting methods}%
 \label{sub:discussion_of_water_splitting_methods}
-Acidic/alkaline amphoteric \ce{H2O} electrolytic cells operate below \SI{100}{\celsius}\cite{Lei2019}, whereas SOEC operate between \SIrange{700}{1000}{\celsius}\cite{Schiller2019}.
+Acidic/alkaline amphoteric \ce{H2O} electrolytic cells operate below \SI{100}{\celsius}\cite{Lei2019}, whereas SOECs operate between \SIrange{700}{1000}{\celsius}\cite{Schiller2019}.
 This higher temperature results in faster reactions and a decrease in the Gibbs free enthalpy for \ce{H2O} electrolysis.
 This results in SOECs requiring less energy per unit volume of \ce{H2}.
 Additionally, because a large part of the energy required for heating can be provided by solar thermal energy when using SOECs, the electrical energy is further lowered.
@@ -76,8 +75,8 @@ Another advantage of the SOECs is that it uses abundant metals in the electrodes
 Since one of the issues facing new methods of \ce{H2} production is cost this is an important consideration.
 
 Reliability and ease of maintenance are important factors when considering a new process, and SOECs are complex.
-It consists of five main components and combines electrical and thermal solar energy sources.
-In contrast, the acid/alkaline electrolytic cell is an adaptation of an existing technique and is far more simple, with only one main component.
+They consist of five main components and combines electrical and thermal solar energy sources.
+In contrast, the acid/alkaline electrolytic cell is an adaptation of an existing technique and is far simpler, with only one main component.
 
-With further refinement SOECs looks to be the most promising method of the two reviewed; it takes the biggest steps in resolving numerous issues facing the use of water electrolysis as a means of producing hydrogen on a large scale.
+With further refinement SOECs look to be the most promising method of the two reviewed; it takes the biggest steps in resolving numerous issues facing the use of water electrolysis as a means of producing hydrogen on a large scale.
 

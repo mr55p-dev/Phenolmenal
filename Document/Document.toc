@@ -4,13 +4,13 @@
 \contentsline {subsection}{\numberline {2.1}Steam methane reformation}{2}%
 \contentsline {subsection}{\numberline {2.2}Uncatalysed electrolysis of water}{3}%
 \contentsline {subsection}{\numberline {2.3}Discussion of traditional methods}{3}%
-\contentsline {section}{\numberline {3}Methane decomposition reactions}{4}%
+\contentsline {section}{\numberline {3}Methane methods}{4}%
 \contentsline {subsection}{\numberline {3.1}Methane decomposition using a hydroxyapatite supported nickel catalyst.}{4}%
 \contentsline {subsection}{\numberline {3.2}Radical methane pyrolysis}{5}%
 \contentsline {subsection}{\numberline {3.3}Discussion of methane methods}{6}%
-\contentsline {section}{\numberline {4}Water electrolytic techniques}{6}%
+\contentsline {section}{\numberline {4}Water electrolysis methods}{6}%
 \contentsline {subsection}{\numberline {4.1}Amphoteric cell}{6}%
 \contentsline {subsection}{\numberline {4.2}Solar powered steam electrolysis}{7}%
-\contentsline {subsection}{\numberline {4.3}Discussion of water-splitting methods}{8}%
+\contentsline {subsection}{\numberline {4.3}Discussion of water-splitting methods}{7}%
 \contentsline {section}{\numberline {5}Conclusion}{8}%
-\contentsline {section}{\numberline {6}Acronyms used}{9}%
+\contentsline {section}{\numberline {6}Acronyms used}{8}%

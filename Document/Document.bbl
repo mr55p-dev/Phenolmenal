@@ -81,11 +81,10 @@ IEA, \emph{{Renewables 2020}}, Iea technical report, 2020\relax
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Ashok \emph{et~al.}(2008)Ashok, Ashok, Kumar, Kumar, Subrahmanyam,
-  Subrahmanyam, Venugopal, and Venugopal]{Ashok}
-J.~Ashok, J.~Ashok, S.~N. Kumar, S.~N. Kumar, M.~Subrahmanyam, M.~Subrahmanyam,
-  A.~Venugopal and A.~Venugopal, \emph{Catalysis letters}, 2008, \textbf{121},
-  283--290\relax
+\bibitem[Ashok \emph{et~al.}(2008)Ashok, Kumar, Subrahmanyam, and
+  Venugopal]{Ashok}
+J.~Ashok, S.~N. Kumar, M.~Subrahmanyam and A.~Venugopal, \emph{Catalysis
+  letters}, 2008, \textbf{121}, 283--290\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

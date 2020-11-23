@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  23 NOV 2020 02:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.10)  23 NOV 2020 04:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,108 +640,112 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (./Chapters/Traditional Methods.tex [2
 
 ] [3]) (./Chapters/Methane Methods.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
 []$[]$ \T1/cmr/m/n/10 is pro-duced from a re-ac-tion of
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 12--15
-[][][][][][][][][][][] [] [] [][][][]$ \T1/cmr/m/n/10 and $[][][][][][][][][][]
-[]$ to make
+Underfull \hbox (badness 5345) in paragraph at lines 7--10
+[][][][][][][][][] [] [] [][][][]$ \T1/cmr/m/n/10 and $[][][][][][][][][][][][]
+[][]$ to make
  []
 
-<Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png, id=25, 601.24625pt x 412.54
+<Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png, id=24, 601.24625pt x 412.54
 124pt>
 File: Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png  use
-d on input line 25.
+d on input line 20.
 (pdftex.def)             Requested size: 193.47578pt x 132.7524pt.
-<Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png, id=27, 551.05875pt x 424.58
+<Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png, id=26, 551.05875pt x 424.58
 624pt>
 File: Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png  use
-d on input line 32.
+d on input line 27.
 (pdftex.def)             Requested size: 193.47578pt x 149.07387pt.
-[4 <./Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[4 <./Chapters/539a7840-2cb8-11eb-895f-8c8590753a48.png> <./Chapters/0ed19cac-2
+cb8-11eb-895f-8c8590753a48.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\T1/cmr/m/n/10 Operating
  []
 
-[5 <./Chapters/0ed19cac-2cb8-11eb-895f-8c8590753a48.png>]
-<Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png, id=40, 1037.8775pt x 583.17
+[5]
+<Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png, id=39, 1037.8775pt x 583.17
 876pt>
 File: Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png  use
-d on input line 118.
+d on input line 113.
 (pdftex.def)             Requested size: 193.47578pt x 108.71394pt.
-)
-(./Chapters/WSMethods.tex
-<Chapters/amphoteric_cell.png, id=41, 219.82124pt x 135.50626pt>
+
+
+Package natbib Warning: Citation `sbn2020' on page 6 undefined on input line 12
+5.
+
+) (./Chapters/WSMethods.tex
+<Chapters/amphoteric_cell.png, id=40, 219.82124pt x 135.50626pt>
 File: Chapters/amphoteric_cell.png Graphic file (type png)
 <use Chapters/amphoteric_cell.png>
 Package pdftex.def Info: Chapters/amphoteric_cell.png  used on input line 8.
 (pdftex.def)             Requested size: 193.47578pt x 119.2686pt.
- [6 <./Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png>]
-<Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png, id=46, 946.53625pt x 414.54
+ [6 <./Chapters/6b76c760-2cb9-11eb-895f-8c8590753a48.png> <./Chapters/amphoteri
+c_cell.png>]
+<Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png, id=47, 946.53625pt x 414.54
 875pt>
 File: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png Graphic file (type png)
 
 <use Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png>
 Package pdftex.def Info: Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png  use
-d on input line 47.
+d on input line 45.
 (pdftex.def)             Requested size: 193.47578pt x 84.73001pt.
- [7 <./Chapters/amphoteric_cell.png> <./Chapters/cf89a71a-2c53-11eb-895f-8c8590
-753a48.png>]) (./Chapters/Conclusion.tex) [8] (./Document.bbl
+ [7 <./Chapters/cf89a71a-2c53-11eb-895f-8c8590753a48.png>]) (./Chapters/Conclus
+ion.tex) (./Document.bbl [8]
 ! Undefined control sequence.
-l.131 \emph{{About LNG}}, \url
+l.130 \emph{{About LNG}}, \url
                               {http://www.lngamerica.com/lng-facts.html}\relax
-? \
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--136
+Underfull \hbox (badness 10000) in paragraph at lines 130--135
 []\T1/cmr/m/it/10 About LNG\T1/cmr/m/n/10 , http://www.lngamerica.com/lng-
  []
 
-) [9] (./Document.aux) ) 
+)
+
+Package natbib Warning: There were undefined citations.
+
+[9] (./Document.aux) ) 
 Here is how much of TeX's memory you used:
- 12134 strings out of 480608
- 226323 string characters out of 5903630
- 514878 words of memory out of 5000000
+ 12133 strings out of 480608
+ 226332 string characters out of 5903630
+ 515839 words of memory out of 5000000
  27782 multiletter control sequences out of 15000+600000
- 553900 words of font info for 80 fonts, out of 8000000 for 9000
+ 553121 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,20n,72p,812b,1249s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-
-super/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-su
-per/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0
-700.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx100
-0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.
-pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pf
-b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb>
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></
-usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></us
-r/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/
-local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/loca
-l/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Document.pdf (9 pages, 2024184 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-su
+per/cm-super-t1.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-supe
+r/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx070
+0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.
+pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pf
+b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></
+usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/
+local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Document.pdf (9 pages, 2023473 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
